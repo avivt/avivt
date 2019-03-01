@@ -1,12 +1,12 @@
-- title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
+- title: "Integrating Partial Model Knowledge in Model Free RL Algorithms"
   image: SFpub.png
-  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-  authors: D Cho, KM Bastiaans, D Chatzopoulos, GD Gu, MP Allan
+  description: We consider RL algorithms when a part of the MDP is known, and propose a general stochastic approximation method for such cases.
+  authors: Tamar, A., Di Castro, D., and Meir, R.
   link:
-    url: https://arxiv.org/abs/1901.00149
-    display:  arxiv:1901.00149
-  highlight: 1
-  news2:
+    url: https://people.eecs.berkeley.edu/~avivt/Tamar11.pdf
+    display:  International Conference on Machine Learning (ICML), 2011.
+  highlight: 0
+  news2: <a href="https://people.eecs.berkeley.edu/~avivt/Tamar11sup.zip">Code+Supp. Material</a>
 
 - title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
   image: DomePub.png
