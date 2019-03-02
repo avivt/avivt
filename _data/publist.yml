@@ -91,7 +91,7 @@
   link:
     url: 
     display:  Advances in Neural Information Processing Systems (NIPS), 2018.
-  highlight: 0
+  highlight: 1
   news1: 
   news2: 
 
@@ -263,7 +263,8 @@
 - title: "Implicit temporal differences"
   image: 
   description: 
-  authors: A. Tamar, P. Toulis, S. Mannor, and E. M. Airoldi.  link:
+  authors: A. Tamar, P. Toulis, S. Mannor, and E. M. Airoldi.  
+  link:
     url: 
     display:  NIPS workshop on large-scale reinforcement learning and Markov decision problems, 2014.
   highlight: 0
