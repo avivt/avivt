@@ -1,22 +1,3 @@
-- title: "Integrating Partial Model Knowledge in Model Free RL Algorithms"
-  image: SFpub.png
-  description: We consider RL algorithms when a part of the MDP is known, and propose a general stochastic approximation method for such cases.
-  authors: Tamar, A., Di Castro, D., and Meir, R.
-  link:
-    url: https://people.eecs.berkeley.edu/~avivt/Tamar11.pdf
-    display:  International Conference on Machine Learning (ICML), 2011.
-  highlight: 0
-  news2: <a href="https://people.eecs.berkeley.edu/~avivt/Tamar11sup.zip">Code+Supp. Material</a>
-
-- title: "Integrating Partial Model Knowledge in Model Free RL Algorithms"
-  image: SFpub.png
-  description: We consider RL algorithms when a part of the MDP is known, and propose a general stochastic approximation method for such cases.
-  authors: Tamar, A., Di Castro, D., and Meir, R.
-  link:
-    url: https://people.eecs.berkeley.edu/~avivt/Tamar11.pdf
-    display:  International Conference on Machine Learning (ICML), 2011.
-  highlight: 0
-  news2: <a href="https://people.eecs.berkeley.edu/~avivt/Tamar11sup.zip">Code+Supp. Material</a>
 
 - title: "Constrained policy optimization"
   image: 
@@ -27,6 +8,9 @@
     display:  International Conference on Machine Learning (ICML), pages 22--31, 2017.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
   news2: 
 
 - title: "Risk-sensitive and robust decision-making: a CVaR optimization approach"
@@ -38,6 +22,9 @@
     display:  Advances in Neural Information Processing Systems (NIPS), pages 1522--1530, 2015.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
   news2: 
 
 - title: "Bayesian reinforcement learning: A survey"
@@ -49,6 +36,9 @@
     display:  Foundations and Trends\textregistered in Machine Learning, 8(5-6):359--483, 2015.
   highlight: 0
   news1: 
+  journal: 1
+  conference: 0
+  workshop: 0
   news2: 
 
 - title: "Learning generalized reactive policies using deep neural networks"
@@ -60,6 +50,9 @@
     display:  International Conference on Automated Planning and Scheduling (ICAPS), 2018.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
   news2: 
 
 - title: "Generalized emphatic temporal difference learning: Bias-variance analysis"
@@ -71,6 +64,9 @@
     display:  AAAI, pages 1631--1637, 2016.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
   news2: 
 
 - title: "Model-ensemble trust-region policy optimization"
@@ -82,6 +78,9 @@
     display:  International Conference on Learning Representations (ICLR), 2018.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
   news2: 
 
 - title: "Learning plannable representations with causal infogan"
@@ -93,6 +92,9 @@
     display:  Advances in Neural Information Processing Systems (NIPS), 2018.
   highlight: 1
   news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
   news2: 
 
 - title: "Shallow updates for deep reinforcement learning"
@@ -104,6 +106,9 @@
     display:  Advances in Neural Information Processing Systems (NIPS), pages 3138--3148, 2017.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
   news2: 
 
 - title: "Multi-agent actor-critic for mixed cooperative-competitive environments"
@@ -115,6 +120,9 @@
     display:  Advances in Neural Information Processing Systems (NIPS), pages 6382--6393, 2017.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
   news2: 
 
 - title: "Situational awareness by risk-conscious skills"
@@ -126,6 +134,9 @@
     display:  arXiv preprint arXiv:1610.02847, 2016.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 0
+  workshop: 1
   news2: 
 
 - title: "Integrating partial model knowledge in model free RL algorithms"
@@ -137,6 +148,9 @@
     display:  International Conference on Machine Learning (ICML), pages 305--312, 2011.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
   news2: 
 
 - title: "Policy gradient for coherent risk measures"
@@ -148,6 +162,9 @@
     display:  Advances in Neural Information Processing Systems (NIPS), pages 1468--1476, 2015.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
   news2: 
 
 - title: "Sequential decision making with coherent risk"
@@ -159,6 +176,9 @@
     display:  IEEE Transactions on Automatic Control, 62(7):3323--3338, 2017.
   highlight: 0
   news1: 
+  journal: 1
+  conference: 0
+  workshop: 0
   news2: 
 
 - title: "Policy gradients with variance related risk criteria"
@@ -170,6 +190,9 @@
     display:  International Conference on Machine Learning (ICML), pages 387--396, 2012.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
   news2: 
 
 - title: "Temporal difference methods for the variance of the reward to go"
@@ -181,6 +204,9 @@
     display:  International Conference on Machine Learning (ICML), pages 495--503, 2013.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
   news2: 
 
 - title: "Learning the variance of the reward-to-go"
@@ -192,6 +218,9 @@
     display:  Journal of Machine Learning Research, 17(13):1--36, 2016.
   highlight: 0
   news1: 
+  journal: 1
+  conference: 0
+  workshop: 0
   news2: 
 
 - title: "Integrating a partial model into model free reinforcement learning"
@@ -203,6 +232,9 @@
     display:  Journal of Machine Learning Research, 13:1927--1966, 2012.
   highlight: 0
   news1: 
+  journal: 1
+  conference: 0
+  workshop: 0
   news2: 
 
 - title: "Optimizing the CVaR via sampling"
@@ -214,6 +246,9 @@
     display:  AAAI, pages 2993--2999, 2015.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
   news2: 
 
 - title: "Variance adjusted actor critic algorithms"
@@ -225,6 +260,9 @@
     display:  arXiv preprint arXiv:1310.3697, 2013.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 0
+  workshop: 1
   news2: 
 
 - title: "Scaling up robust MDPs using function approximation"
@@ -236,6 +274,9 @@
     display:  International Conference on Machine Learning (ICML), pages 181--189, 2014.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
   news2: 
 
 - title: "Imitation learning from visual data with multiple intentions"
@@ -247,6 +288,9 @@
     display:  International Conference on Learning Representations (ICLR), 2018.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
   news2: 
 
 - title: "Learning from the hindsight plan -- episodic MPC improvement"
@@ -258,6 +302,9 @@
     display:  IEEE International Conference on Robotics and Automation (ICRA), pages 336--343, 2017.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
   news2: 
 
 - title: "Implicit temporal differences"
@@ -269,6 +316,9 @@
     display:  NIPS workshop on large-scale reinforcement learning and Markov decision problems, 2014.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 0
+  workshop: 1
   news2: 
 
 - title: "Value iteration networks"
@@ -280,6 +330,9 @@
     display:  Advances in Neural Information Processing Systems (NIPS), pages 2154--2162, 2016.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
   news2: 
 
 - title: "Learning robotic assembly from CAD"
@@ -291,6 +344,9 @@
     display:  IEEE International Conference on Robotics and Automation (ICRA), 2018.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
   news2: 
 
 - title: "A machine learning approach to routing"
@@ -302,4 +358,7 @@
     display:  ACM Workshop on Hot Topics in Networks (HotNets), 2017.
   highlight: 0
   news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
   news2: 
