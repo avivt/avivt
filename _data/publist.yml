@@ -11,6 +11,7 @@
   journal: 0
   conference: 1
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Risk-sensitive and robust decision-making: a CVaR optimization approach"
@@ -25,6 +26,7 @@
   journal: 0
   conference: 1
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Bayesian reinforcement learning: A survey"
@@ -39,6 +41,7 @@
   journal: 1
   conference: 0
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Learning generalized reactive policies using deep neural networks"
@@ -53,6 +56,7 @@
   journal: 0
   conference: 1
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Generalized emphatic temporal difference learning: Bias-variance analysis"
@@ -67,6 +71,7 @@
   journal: 0
   conference: 1
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Model-ensemble trust-region policy optimization"
@@ -81,6 +86,7 @@
   journal: 0
   conference: 1
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Learning plannable representations with causal infogan"
@@ -95,6 +101,7 @@
   journal: 0
   conference: 1
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Shallow updates for deep reinforcement learning"
@@ -109,6 +116,7 @@
   journal: 0
   conference: 1
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Multi-agent actor-critic for mixed cooperative-competitive environments"
@@ -123,6 +131,7 @@
   journal: 0
   conference: 1
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Situational awareness by risk-conscious skills"
@@ -137,6 +146,7 @@
   journal: 0
   conference: 0
   workshop: 1
+  preprint: 0
   news2: 
 
 - title: "Integrating partial model knowledge in model free RL algorithms"
@@ -151,6 +161,7 @@
   journal: 0
   conference: 1
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Policy gradient for coherent risk measures"
@@ -165,6 +176,7 @@
   journal: 0
   conference: 1
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Sequential decision making with coherent risk"
@@ -179,6 +191,7 @@
   journal: 1
   conference: 0
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Policy gradients with variance related risk criteria"
@@ -193,6 +206,7 @@
   journal: 0
   conference: 1
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Temporal difference methods for the variance of the reward to go"
@@ -207,6 +221,7 @@
   journal: 0
   conference: 1
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Learning the variance of the reward-to-go"
@@ -221,6 +236,7 @@
   journal: 1
   conference: 0
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Integrating a partial model into model free reinforcement learning"
@@ -235,6 +251,7 @@
   journal: 1
   conference: 0
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Optimizing the CVaR via sampling"
@@ -249,6 +266,7 @@
   journal: 0
   conference: 1
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Variance adjusted actor critic algorithms"
@@ -263,6 +281,7 @@
   journal: 0
   conference: 0
   workshop: 1
+  preprint: 0
   news2: 
 
 - title: "Scaling up robust MDPs using function approximation"
@@ -277,6 +296,7 @@
   journal: 0
   conference: 1
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Imitation learning from visual data with multiple intentions"
@@ -291,6 +311,7 @@
   journal: 0
   conference: 1
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Learning from the hindsight plan -- episodic MPC improvement"
@@ -305,6 +326,7 @@
   journal: 0
   conference: 1
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Implicit temporal differences"
@@ -319,6 +341,7 @@
   journal: 0
   conference: 0
   workshop: 1
+  preprint: 0
   news2: 
 
 - title: "Value iteration networks"
@@ -333,6 +356,7 @@
   journal: 0
   conference: 1
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Learning robotic assembly from CAD"
@@ -347,6 +371,7 @@
   journal: 0
   conference: 1
   workshop: 0
+  preprint: 0
   news2: 
 
 - title: "A machine learning approach to routing"
@@ -361,4 +386,5 @@
   journal: 0
   conference: 1
   workshop: 0
+  preprint: 0
   news2: 
