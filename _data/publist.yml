@@ -1,10 +1,10 @@
 
-- title: "Learning plannable representations with causal infogan"
+- title: "Learning plannable representations with Causal InfoGAN"
   image: 
   description: 
   authors: T. Kurutach*, A. Tamar*, G. Yang, S. Russell, and P. Abbeel.
   link:
-    url: 
+    url: http://papers.nips.cc/paper/8090-learning-plannable-representations-with-causal-infogan
     display:  Advances in Neural Information Processing Systems (NIPS), 2018.
   highlight: 1
   news1: 
@@ -19,7 +19,7 @@
   description: 
   authors: E. Groshev, M. Goldstein, A. Tamar, S. Srivastava, and P. Abbeel.
   link:
-    url: 
+    url: https://www.aaai.org/ocs/index.php/ICAPS/ICAPS18/paper/viewPaper/17782
     display:  International Conference on Automated Planning and Scheduling (ICAPS), 2018.
   highlight: 0
   news1: 
@@ -34,7 +34,7 @@
   description: 
   authors: G. Thomas, M. Chien, A. Tamar, J. Aparicio-Ojea, and P. Abbeel.
   link:
-    url: 
+    url: https://ieeexplore.ieee.org/abstract/document/8460696
     display:  IEEE International Conference on Robotics and Automation (ICRA), 2018.
   highlight: 0
   news1: 
@@ -49,7 +49,7 @@
   description: 
   authors: A. Tamar, K. Rohanimanesh, Y. Chow, C. Vigorito, B. Goodrich, M. Kahane, and D. Pridmore.
   link:
-    url: 
+    url: https://openreview.net/forum?id=Hk3ddfWRW
     display:  International Conference on Learning Representations (ICLR), 2018.
   highlight: 0
   news1: 
@@ -64,7 +64,7 @@
   description: 
   authors: T. Kurutach, I. Clavera, Y. Duan, A. Tamar, and P. Abbeel.
   link:
-    url: 
+    url: https://arxiv.org/abs/1802.10592
     display:  International Conference on Learning Representations (ICLR), 2018.
   highlight: 0
   news1: 
@@ -79,7 +79,7 @@
   description: 
   authors: A. Valadarsky, M. Schapira, D. Shahaf, and A. Tamar.
   link:
-    url: 
+    url: https://arxiv.org/abs/1708.03074
     display:  ACM Workshop on Hot Topics in Networks (HotNets), 2017.
   highlight: 0
   news1: 
@@ -94,7 +94,7 @@
   description: 
   authors: J. Achiam, D. Held, A. Tamar, and P. Abbeel.  
   link:
-    url: 
+    url: http://proceedings.mlr.press/v70/achiam17a.html
     display:  International Conference on Machine Learning (ICML), pages 22--31, 2017.
   highlight: 0
   news1: 
@@ -109,7 +109,7 @@
   description: 
   authors: R. Lowe, Y. Wu, A. Tamar, J. Harb, P. Abbeel, and I. Mordatch.
   link:
-    url: 
+    url: https://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mixed-cooperative-competitive-environments.pdf
     display:  Advances in Neural Information Processing Systems (NIPS), pages 6382--6393, 2017.
   highlight: 0
   news1: 
@@ -124,7 +124,7 @@
   description: 
   authors: N. Levine, T. Zahavy, D. J. Mankowitz, A. Tamar, and S. Mannor.
   link:
-    url: 
+    url: https://papers.nips.cc/paper/6906-shallow-updates-for-deep-reinforcement-learning.pdf
     display:  Advances in Neural Information Processing Systems (NIPS), pages 3138--3148, 2017.
   highlight: 0
   news1: 
@@ -139,7 +139,7 @@
   description: 
   authors: A. Tamar, G. Thomas, T. Zhang, S. Levine, and P. Abbeel.
   link:
-    url: 
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7989043
     display:  IEEE International Conference on Robotics and Automation (ICRA), pages 336--343, 2017.
   highlight: 0
   news1: 
@@ -154,7 +154,7 @@
   description: 
   authors: A. Tamar, Y. Chow, M. Ghavamzadeh, and S. Mannor.
   link:
-    url: 
+    url: https://ieeexplore.ieee.org/document/7797146
     display:  IEEE Transactions on Automatic Control, 62(7):3323--3338, 2017.
   highlight: 0
   news1: 
@@ -169,7 +169,7 @@
   description: 
   authors: A. Tamar, Y. Wu, G. Thomas, S. Levine, and P. Abbeel.
   link:
-    url: 
+    url: http://papers.nips.cc/paper/6046-value-iteration-networks
     display:  Advances in Neural Information Processing Systems (NIPS), pages 2154--2162, 2016.
   highlight: 0
   news1: 
@@ -184,7 +184,7 @@
   description: 
   authors: A. Hallak, A. Tamar, R. Munos, and S. Mannor.
   link:
-    url: 
+    url: https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPaper/11983
     display:  AAAI, pages 1631--1637, 2016.
   highlight: 0
   news1: 
@@ -199,7 +199,7 @@
   description: 
   authors: D. J. Mankowitz, A. Tamar, and S. Mannor.
   link:
-    url: 
+    url: https://arxiv.org/abs/1610.02847
     display:  arXiv preprint arXiv:1610.02847, 2016.
   highlight: 0
   news1: 
@@ -214,7 +214,7 @@
   description: 
   authors: A. Tamar, D. Di Castro, and S. Mannor.
   link:
-    url: 
+    url: http://jmlr.org/papers/v17/14-335.html
     display:  Journal of Machine Learning Research, 17(13):1--36, 2016.
   highlight: 0
   news1: 
@@ -229,7 +229,7 @@
   description: 
   authors: Y. Chow, A. Tamar, S. Mannor, and M. Pavone.  
   link:
-    url: 
+    url: http://papers.nips.cc/paper/6014-risk-sensitive-and-robust-decision-making-a-cvar-optimization-approach
     display:  Advances in Neural Information Processing Systems (NIPS), pages 1522--1530, 2015.
   highlight: 0
   news1: 
@@ -244,7 +244,7 @@
   description: 
   authors: A. Tamar, Y. Chow, M. Ghavamzadeh, and S. Mannor.
   link:
-    url: 
+    url: http://papers.nips.cc/paper/5923-policy-gradient-for-coherent-risk-measures
     display:  Advances in Neural Information Processing Systems (NIPS), pages 1468--1476, 2015.
   highlight: 0
   news1: 
@@ -259,7 +259,7 @@
   description: 
   authors: A. Tamar, Y. Glassner, and S. Mannor.
   link:
-    url: 
+    url: https://arxiv.org/abs/1404.3862
     display:  AAAI, pages 2993--2999, 2015.
   highlight: 0
   news1: 
@@ -274,7 +274,7 @@
   description: 
   authors: M. Ghavamzadeh, S. Mannor, J. Pineau, and A. Tamar.
   link:
-    url: 
+    url: https://arxiv.org/abs/1609.04436
     display:  Foundations and Trends in Machine Learning, 8(5-6):359--483, 2015.
   highlight: 0
   news1: 
@@ -289,7 +289,7 @@
   description: 
   authors: A. Tamar, S. Mannor, and H. Xu.
   link:
-    url: 
+    url: http://proceedings.mlr.press/v32/tamar14.pdf
     display:  International Conference on Machine Learning (ICML), pages 181--189, 2014.
   highlight: 0
   news1: 
@@ -304,7 +304,7 @@
   description: 
   authors: A. Tamar, P. Toulis, S. Mannor, and E. M. Airoldi.  
   link:
-    url: 
+    url: https://arxiv.org/abs/1412.6734
     display:  NIPS workshop on large-scale reinforcement learning and Markov decision problems, 2014.
   highlight: 0
   news1: 
@@ -319,7 +319,7 @@
   description: 
   authors: A. Tamar, D. Di Castro, and S. Mannor.
   link:
-    url: 
+    url: http://proceedings.mlr.press/v28/tamar13.html
     display:  International Conference on Machine Learning (ICML), pages 495--503, 2013.
   highlight: 0
   news1: 
@@ -334,7 +334,7 @@
   description: 
   authors: A. Tamar and S. Mannor.
   link:
-    url: 
+    url: https://arxiv.org/abs/1310.3697
     display:  arXiv preprint arXiv:1310.3697, 2013.
   highlight: 0
   news1: 
@@ -349,7 +349,7 @@
   description: 
   authors: A. Tamar, D. Di Castro, and R. Meir.
   link:
-    url: 
+    url: http://www.jmlr.org/papers/volume13/tamar12a/tamar12a.pdf
     display:  Journal of Machine Learning Research, 13:1927--1966, 2012.
   highlight: 0
   news1: 
@@ -364,7 +364,7 @@
   description: 
   authors: A. Tamar, D. Di Castro, and S. Mannor.
   link:
-    url: 
+    url: https://icml.cc/2012/papers/489.pdf
     display:  International Conference on Machine Learning (ICML), pages 387--396, 2012.
   highlight: 0
   news1: 
@@ -379,7 +379,7 @@
   description: 
   authors: A. Tamar, D. D. Castro, and R. Meir.
   link:
-    url: 
+    url: http://www.icml-2011.org/papers/222_icmlpaper.pdf
     display:  International Conference on Machine Learning (ICML), pages 305--312, 2011.
   highlight: 0
   news1: 
