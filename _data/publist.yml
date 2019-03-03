@@ -1,3 +1,137 @@
+- title: "Multi agent reinforcement learning with multi-step generative models"
+  image: 
+  description: 
+  authors: O. Krupnik, I. Mordatch, and A. Tamar. 
+  link:
+    url: https://arxiv.org/abs/1901.10251
+    display:  arXiv:1901.10251
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 0
+  workshop: 0
+  preprint: 1
+  news2: 
+
+- title: "Internet congestion control via deep reinforcement learning"
+  image: 
+  description: 
+  authors: N. Jay, N. H. Rotman, P. Godfrey, M. Schapira, and A. Tamar.  
+  link:
+    url: https://arxiv.org/abs/1810.03259
+    display:  arXiv:1810.03259
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 0
+  workshop: 0
+  preprint: 1
+  news2: 
+
+- title: "Learning and planning with a semantic model"
+  image: 
+  description: 
+  authors: Y. Wu, Y. Wu, A. Tamar, S. Russell, G. Gkioxari, and Y. Tian.  
+  link:
+    url: https://arxiv.org/abs/1809.10842
+    display:  arXiv:1809.10842
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 0
+  workshop: 0
+  preprint: 1
+  news2: 
+
+- title: "Distributional multivariate policy evaluation and exploration with the Bellman GAN"
+  image: 
+  description: 
+  authors: D. Freirich, R. Meir, and A. Tamar.  
+  link:
+    url: https://arxiv.org/abs/1808.01960
+    display:  arXiv:1808.01960
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 0
+  workshop: 0
+  preprint: 1
+  news2: 
+
+- title: "Safe policy learning from observations"
+  image: 
+  description: 
+  authors: E. Sarafian, A. Tamar, and S. Kraus. 
+  link:
+    url: https://arxiv.org/abs/1805.07805
+    display:  arXiv:1805.07805
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 0
+  workshop: 0
+  preprint: 1
+  news2: 
+
+- title: "Domain randomization for active pose estimation"
+  image: 
+  description: 
+  authors: X. Ren, J. Luo, E. Solowjow, J. A. Ojea, A. Gupta, A. Tamar, and P. Abbeel. 
+  link:
+    url: 
+    display:  IEEE International Conference on Robotics and Automation (ICRA), 2019.
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2: 
+
+- title: "Reinforcement learning on variable impedance controller for high-precision robotic assembly"
+  image: 
+  description: 
+  authors: J. Luo, E. Solowjow, C. Wen, J. A. Ojea, A. M. Agogino, A. Tamar, andP. Abbeel. 
+  link:
+    url: 
+    display:  IEEE International Conference on Robotics and Automation (ICRA), 2019.
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2: 
+
+- title: "Multi Agent Reinforcement Learning with Multi-Step Generative Models"
+  image: 
+  description: 
+  authors: O. Krupnik, I. Mordatch, and A. Tamar.
+  link:
+    url: https://arxiv.org/abs/1901.10251
+    display:  https://arxiv.org/abs/1901.10251
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 0
+  workshop: 0
+  preprint: 1
+  news2: 
+
+- title: "Safer Classification by Synthesis"
+  image: 
+  description: 
+  authors: W. Wang, A. Wang, A. Tamar, X. Chen, and P. Abbeel.
+  link:
+    url: http://arxiv.org/abs/1711.08534
+    display:  http://arxiv.org/abs/1711.08534.
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 0
+  workshop: 0
+  preprint: 1
+  news2: 
 
 - title: "Learning plannable representations with Causal InfoGAN"
   image: 
