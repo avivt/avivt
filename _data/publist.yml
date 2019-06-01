@@ -181,7 +181,7 @@
 - title: "Learning plannable representations with Causal InfoGAN"
   image: rope_causal_infogan_1.png
   description: 
-  authors: T. Kurutach, A. Tamar, G. Yang, S. Russell, and P. Abbeel.
+  authors: T. Kurutach*, A. Tamar*, G. Yang, S. Russell, and P. Abbeel.
   link:
     url: http://papers.nips.cc/paper/8090-learning-plannable-representations-with-causal-infogan
     display:  Advances in Neural Information Processing Systems (NIPS), 2018.
@@ -193,7 +193,7 @@
   preprint: 0
   news2: 
 
-  - title: "Learning generalized reactive policies using deep neural networks"
+- title: "Learning generalized reactive policies using deep neural networks"
   image: 
   description: 
   authors: E. Groshev, M. Goldstein, A. Tamar, S. Srivastava, and P. Abbeel.
