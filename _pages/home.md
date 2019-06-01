@@ -1,12 +1,18 @@
 ---
-title: "Allan Lab - Home"
+title: "Aviv Tamar"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Aviv Tamar at Technion."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+Welcome to my homepage! 
+
+I'm an assistant professor at Technion -- Israel Institute for Technology. 
+
+My research focuses on AI and machine learning, with applications in robotics. My long term goal is to have robots that can operate in human-centered domains such as homes and hospitals. Some of the fundamental questions that need to be solved towards this goal are how can machines learn models of their environments that are useful for performing tasks, and how to learn in an interpretable and safe manner. Most of my work falls under the framework of reinforcement learning and representation learning.
+
+Previously, I was a postdoc in the Berkeley AI Research Lab (BAIR) at UC Berkeley, with Prof. Pieter Abbeel. I completed my PhD. at the Technion, supervised by Prof. Shie Mannor, and my MSc also at Technion, under the supervision of Prof. Ron Meir.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
