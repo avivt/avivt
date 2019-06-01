@@ -216,12 +216,12 @@
     url: https://ieeexplore.ieee.org/abstract/document/8460696
     display:  IEEE International Conference on Robotics and Automation (ICRA), 2018.
   highlight: 1
-  news1: 
+  news1: Automation award track
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: Automation award track
+  news2: 
 
 - title: "Imitation learning from visual data with multiple intentions"
   image: 
@@ -351,12 +351,12 @@
     url: http://papers.nips.cc/paper/6046-value-iteration-networks
     display:  Advances in Neural Information Processing Systems (NIPS), pages 2154--2162, 2016.
   highlight: 1
-  news1: 
+  news1: Best paper award
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: Best paper award
+  news2:  
 
 - title: "Generalized emphatic temporal difference learning: Bias-variance analysis"
   image: 
