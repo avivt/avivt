@@ -10,7 +10,7 @@ Welcome to my homepage!
 
 I'm an assistant professor at Technion -- Israel Institute for Technology. 
 
-My research focuses on AI and machine learning, with applications in robotics. My long term goal is to have robots that can operate in human-centered domains such as homes and hospitals. Some of the fundamental questions that need to be solved towards this goal are how can machines learn models of their environments that are useful for performing tasks, and how to learn in an interpretable and safe manner. Most of my work falls under the framework of reinforcement learning and representation learning.
+My research focuses on AI and machine learning, with applications in robotics. My long term goal is to bring robots into human-centered domains such as homes and hospitals. Towards this goal, some fundamental questions need to be solved, such as how can machines learn models of their environments that are useful for performing tasks, and how to learn behavior from data in an interpretable and safe manner. Most of my work falls under the framework of reinforcement learning, and its connections to representation learning, planning, and risk-averse optimization. See my publications page for more details!
 
 Previously, I was a postdoc in the Berkeley AI Research Lab (BAIR) at UC Berkeley, with Prof. Pieter Abbeel. I completed my PhD. at the Technion, supervised by Prof. Shie Mannor, and my MSc also at Technion, under the supervision of Prof. Ron Meir.
 
