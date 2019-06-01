@@ -1,11 +1,11 @@
 - title: "Harnessing reinforcement learning for neural motion planning"
-  image: 
-  description: 
+  image: scenario_hard.png
+  description: We train a neural network to perform motion planning computations, using a new RL algorithm that is tailored for motion planning domains.
   authors: T. Jurgenson and A. Tamar.
   link:
     url: 
     display:  "Robotics: Science and Systems (RSS), 2019"
-  highlight: 0
+  highlight: 1
   news1: 
   journal: 0
   conference: 1
@@ -14,13 +14,13 @@
   news2: 
 
 - title: "Learning robotic manipulation through visual planning and acting"
-  image: 
-  description: 
+  image: new_teaser_1.png
+  description: We propose a data-driven method for robotic manipulation that first imagines an image sequence of the manipulation, and then executes the imagined plan.
   authors: A. Wang, T. Kurutach, K. Liu, P. Abbeel, and A. Tamar.
   link:
     url: https://arxiv.org/abs/1905.04411
     display:  "Robotics: Science and Systems (RSS), 2019"
-  highlight: 0
+  highlight: 1
   news1: 
   journal: 0
   conference: 1
@@ -180,7 +180,7 @@
 
 - title: "Learning plannable representations with Causal InfoGAN"
   image: rope_causal_infogan_1.png
-  description: 
+  description: We propose a generative model that can imagine *goal-directed* image sequences, and use it to plan in image space.
   authors: T. Kurutach*, A. Tamar*, G. Yang, S. Russell, and P. Abbeel.
   link:
     url: http://papers.nips.cc/paper/8090-learning-plannable-representations-with-causal-infogan
@@ -210,7 +210,7 @@
 
 - title: "Learning robotic assembly from CAD"
   image: Gear_experiment.jpg
-  description: 
+  description: We combine motion planning and RL to assemble tight-fitting objects.
   authors: G. Thomas, M. Chien, A. Tamar, J. Aparicio-Ojea, and P. Abbeel.
   link:
     url: https://ieeexplore.ieee.org/abstract/document/8460696
@@ -221,7 +221,7 @@
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
+  news2: Automation award track
 
 - title: "Imitation learning from visual data with multiple intentions"
   image: 
@@ -345,7 +345,7 @@
 
 - title: "Value iteration networks"
   image: grid1.png
-  description: 
+  description: We identify a connection between the value iteration algorithm and CNNs, and use it to develop neural networks with a built in planning module.
   authors: A. Tamar, Y. Wu, G. Thomas, S. Levine, and P. Abbeel.
   link:
     url: http://papers.nips.cc/paper/6046-value-iteration-networks
@@ -356,7 +356,7 @@
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
+  news2: Best paper award
 
 - title: "Generalized emphatic temporal difference learning: Bias-variance analysis"
   image: 
@@ -435,7 +435,7 @@
 
 - title: "Optimizing the CVaR via sampling"
   image: weights1.png
-  description: 
+  description: We propose a policy gradient algorithm for the CVaR risk measure, and use it to learn a risk-averse Tetris playing agent.
   authors: A. Tamar, Y. Glassner, and S. Mannor.
   link:
     url: https://arxiv.org/abs/1404.3862
