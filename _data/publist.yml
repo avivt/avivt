@@ -179,7 +179,7 @@
   news2: 
 
 - title: "Learning plannable representations with Causal InfoGAN"
-  image: 
+  image: rope_causal_infogan_1.png
   description: 
   authors: T. Kurutach*, A. Tamar*, G. Yang, S. Russell, and P. Abbeel.
   link:
@@ -209,13 +209,13 @@
   news2: 
 
 - title: "Learning robotic assembly from CAD"
-  image: 
+  image: Gear_experiment.jpg
   description: 
   authors: G. Thomas, M. Chien, A. Tamar, J. Aparicio-Ojea, and P. Abbeel.
   link:
     url: https://ieeexplore.ieee.org/abstract/document/8460696
     display:  IEEE International Conference on Robotics and Automation (ICRA), 2018.
-  highlight: 0
+  highlight: 1
   news1: 
   journal: 0
   conference: 1
@@ -434,13 +434,13 @@
   news2: 
 
 - title: "Optimizing the CVaR via sampling"
-  image: 
+  image: weights1.png
   description: 
   authors: A. Tamar, Y. Glassner, and S. Mannor.
   link:
     url: https://arxiv.org/abs/1404.3862
     display:  AAAI, pages 2993--2999, 2015.
-  highlight: 0
+  highlight: 1
   news1: 
   journal: 0
   conference: 1
