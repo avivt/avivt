@@ -28,7 +28,7 @@
   preprint: 0
   news2: 
 
-- title: "Robust 2d assembly sequencingvia geometric planning with learned costs"
+- title: "Robust 2d assembly sequencing via geometric planning with learned costs"
   image: 
   description: 
   authors: T. Geft, A. Tamar, K. Goldberg, and D. Halperin. 
@@ -106,7 +106,7 @@
 - title: "Distributional multivariate policy evaluation and exploration with the Bellman GAN"
   image: 
   description: 
-  authors: D. Freirich, R. Meir, and A. Tamar.  
+  authors: D. Freirich, T. Shimkin, R. Meir, and A. Tamar.  
   link:
     url: https://arxiv.org/abs/1808.01960
     display:  International Conference on Machine Learning (ICML), 2019.
