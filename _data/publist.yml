@@ -136,7 +136,7 @@
 - title: "Domain randomization for active pose estimation"
   image: 
   description: 
-  authors: X. Ren, J. Luo, E. Solowjow, J. A. Ojea, A. Gupta, A. Tamar, and P. Abbeel. 
+  authors: X. Ren, J. Luo, E. Solowjow, J. Aparicio-Ojea, A. Gupta, A. Tamar, and P. Abbeel. 
   link:
     url: https://arxiv.org/abs/1903.03953
     display:  IEEE International Conference on Robotics and Automation (ICRA), 2019.
@@ -151,7 +151,7 @@
 - title: "Reinforcement learning on variable impedance controller for high-precision robotic assembly"
   image: 
   description: 
-  authors: J. Luo, E. Solowjow, C. Wen, J. A. Ojea, A. M. Agogino, A. Tamar, andP. Abbeel. 
+  authors: J. Luo, E. Solowjow, C. Wen, J. Aparicio-Ojea, A. M. Agogino, A. Tamar, and P. Abbeel. 
   link:
     url: https://arxiv.org/abs/1903.01066
     display:  IEEE International Conference on Robotics and Automation (ICRA), 2019.
@@ -268,21 +268,6 @@
   preprint: 0
   news2: 
 
-- title: "Constrained policy optimization"
-  image: 
-  description: 
-  authors: J. Achiam, D. Held, A. Tamar, and P. Abbeel.  
-  link:
-    url: http://proceedings.mlr.press/v70/achiam17a.html
-    display:  International Conference on Machine Learning (ICML), pages 22--31, 2017.
-  highlight: 0
-  news1: 
-  journal: 0
-  conference: 1
-  workshop: 0
-  preprint: 0
-  news2: 
-
 - title: "Multi-agent actor-critic for mixed cooperative-competitive environments"
   image: 
   description: 
@@ -320,6 +305,22 @@
   link:
     url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7989043
     display:  IEEE International Conference on Robotics and Automation (ICRA), pages 336--343, 2017.
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2: 
+
+
+- title: "Constrained policy optimization"
+  image: 
+  description: 
+  authors: J. Achiam, D. Held, A. Tamar, and P. Abbeel.  
+  link:
+    url: http://proceedings.mlr.press/v70/achiam17a.html
+    display:  International Conference on Machine Learning (ICML), pages 22--31, 2017.
   highlight: 0
   news1: 
   journal: 0
