@@ -1,6 +1,6 @@
 - title: "Sub-Goal Trees -- a Framework for Goal-Directed Trajectory Prediction and Optimization"
   image: ts_values_all.png
-  description: We derive a new trajectory representation that recursively predicts sub goals, and use it to develop new imitation and reinforcement learning frameworks.
+  description: We derive a new trajectory representation that recursively predicts sub goals, and use it to develop new imitation and RL frameworks.
   authors: T. Jurgenson, E. Groshev, and A. Tamar.
   link:
     url: https://arxiv.org/abs/1906.05329
