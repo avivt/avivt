@@ -1,3 +1,18 @@
+- title: "Sub-Goal Trees -- a Framework for Goal-Directed Trajectory Prediction and Optimization"
+  image: ts_values_all.png
+  description: We derive a new trajectory representation that recursively predicts sub goals, and use it to develop new imitation and reinforcement learning frameworks.
+  authors: T. Jurgenson, E. Groshev, and A. Tamar.
+  link:
+    url: https://arxiv.org/abs/1906.05329
+    display:  "arXiv:1906.05329"
+  highlight: 1
+  news1: 
+  journal: 0
+  conference: 0
+  workshop: 0
+  preprint: 1
+  news2: 
+
 - title: "Harnessing reinforcement learning for neural motion planning"
   image: scenario_hard.png
   description: We train a neural network to perform motion planning computations, using a new RL algorithm that is tailored for motion planning domains.
@@ -64,13 +79,13 @@
   authors: O. Krupnik, I. Mordatch, and A. Tamar. 
   link:
     url: https://arxiv.org/abs/1901.10251
-    display:  arXiv:1901.10251
+    display:  Conference on Robot Learning (CoRL), 2019.
   highlight: 0
   news1: 
   journal: 0
-  conference: 0
+  conference: 1
   workshop: 0
-  preprint: 1
+  preprint: 0
   news2: 
 
 - title: "Internet congestion control via deep reinforcement learning"
@@ -94,13 +109,13 @@
   authors: Y. Wu, Y. Wu, A. Tamar, S. Russell, G. Gkioxari, and Y. Tian.  
   link:
     url: https://arxiv.org/abs/1809.10842
-    display:  arXiv:1809.10842
+    display:  International Conference on Computer Vision (ICCV), 2019.
   highlight: 0
   news1: 
   journal: 0
-  conference: 0
+  conference: 1
   workshop: 0
-  preprint: 1
+  preprint: 0
   news2: 
 
 - title: "Distributional multivariate policy evaluation and exploration with the Bellman GAN"
