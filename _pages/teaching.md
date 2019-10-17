@@ -112,3 +112,5 @@ Resources:
     <td class="tg-zd5i">Ch. 9.2 in Lecture Notes</td>
   </tr>
 </table>
+<br>
+<br>
