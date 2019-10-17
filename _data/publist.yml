@@ -30,7 +30,7 @@
 
 - title: "Learning robotic manipulation through visual planning and acting"
   image: new_teaser_1.png
-  description: We propose a data-driven method for robotic manipulation that first imagines an image sequence of the manipulation, and then executes the imagined plan.
+  description: A data-driven method for robotic manipulation that first imagines an image sequence of the manipulation, and then executes the imagined plan.
   authors: A. Wang, T. Kurutach, K. Liu, P. Abbeel, and A. Tamar.
   link:
     url: https://arxiv.org/abs/1905.04411
