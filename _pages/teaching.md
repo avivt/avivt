@@ -35,79 +35,79 @@ Resources:
   <tr>
     <td class="tg-zd5i">1</td>
     <td class="tg-zd5i">Overview and examples<br>Dynamic Programming (DP): basic ideas</td>
-    <td class="tg-ltad">DP - knapsack, LCS</td>
+    <td class="tg-zd5i">DP - knapsack, LCS</td>
     <td class="tg-zd5i">Ch. 1, 3.1 in Lecture Notes</td>
   </tr>
   <tr>
     <td class="tg-zd5i">2</td>
     <td class="tg-zd5i">Deterministic Controlled Processes <br>Finite horizon DP (for deterministic process)</td>
-    <td class="tg-ltad">Fixed horizon DP, TSP</td>
+    <td class="tg-zd5i">Fixed horizon DP, TSP</td>
     <td class="tg-zd5i">Ch. 2 in Lecture Notes</td>
   </tr>
   <tr>
     <td class="tg-zd5i">3</td>
     <td class="tg-zd5i">Shortest-path problems <br>Graph search algorithms: Bellman-Ford, Dijkstra, A* <br>Deterministic continuous control: LQR, iLQR</td>
-    <td class="tg-ltad">Shortest path on graph<br>Dijkstra proof</td>
+    <td class="tg-zd5i">Shortest path on graph<br>Dijkstra proof</td>
     <td class="tg-zd5i">Ch. 3.2, 3.3 in Lecture Notes</td>
   </tr>
   <tr>
     <td class="tg-zd5i">4</td>
     <td class="tg-zd5i">Markov Decision Processes (MDP)<br>Finite horizon DP (for MDPs)</td>
-    <td class="tg-ltad">LQR</td>
+    <td class="tg-zd5i">LQR</td>
     <td class="tg-zd5i">Ch. 4 in Lecture Notes</td>
   </tr>
   <tr>
     <td class="tg-zd5i">5</td>
     <td class="tg-zd5i">Finite horizon DP (cont'd) <br>Discounted MDPs</td>
-    <td class="tg-ltad">Markov chains<br>Viterbi algorithm</td>
+    <td class="tg-zd5i">Markov chains<br>Viterbi algorithm</td>
     <td class="tg-zd5i">Ch. 5 in Lecture Notes</td>
   </tr>
   <tr>
     <td class="tg-zd5i">6</td>
     <td class="tg-zd5i">Discounted MDPs (cont'd)<br>Value Iteration</td>
-    <td class="tg-ltad">VI, Bellman operator</td>
+    <td class="tg-zd5i">VI, Bellman operator</td>
     <td class="tg-zd5i">Ch. 5 in Lecture Notes</td>
   </tr>
   <tr>
     <td class="tg-zd5i">7</td>
     <td class="tg-zd5i">Policy Iteration<br>Linear Programming formulations</td>
-    <td class="tg-ltad">Robust DP<br>PI vs. VI</td>
+    <td class="tg-zd5i">Robust DP<br>PI vs. VI</td>
     <td class="tg-zd5i">Ch. 5 in Lecture Notes</td>
   </tr>
   <tr>
     <td class="tg-zd5i">8</td>
     <td class="tg-zd5i">Model free learning (small state spaces): TD(0), Q-learning, SARSA</td>
-    <td class="tg-ltad">TD(0)<br>TD(lambda)</td>
+    <td class="tg-zd5i">TD(0)<br>TD(lambda)</td>
     <td class="tg-zd5i">Ch. 6 in Lecture Notes</td>
   </tr>
   <tr>
     <td class="tg-zd5i">9</td>
     <td class="tg-zd5i">MDPs with large state spaces - value-based approximations <br>projected Bellman equation<br>Policy evaluation algorithms: regression, TD(0), LSTD<br>Approximate policy iteration: LSPI, SARSA<br>Approximate value iteration: fitted-Q, Q-learning</td>
-    <td class="tg-ltad">LSTD <br>LSPI</td>
+    <td class="tg-zd5i">LSTD <br>LSPI</td>
     <td class="tg-zd5i">Ch. 9.1, 9.3 in Lecture Notes</td>
   </tr>
   <tr>
     <td class="tg-zd5i">10</td>
     <td class="tg-zd5i">Stochastic approximation<br>Convergence of RL algorithms</td>
-    <td class="tg-ltad">Stochastic approximation</td>
+    <td class="tg-zd5i">Stochastic approximation</td>
     <td class="tg-zd5i">Ch. 7,8 in Lecture Notes</td>
   </tr>
   <tr>
     <td class="tg-zd5i">11</td>
     <td class="tg-zd5i">MDPs with large state spaces - policy-based approximations<br>Policy search <br>Policy gradients<br>Actor-critic</td>
-    <td class="tg-ltad">Policy gradients</td>
+    <td class="tg-zd5i">Policy gradients</td>
     <td class="tg-zd5i">Ch. 10 in Lecture Notes</td>
   </tr>
   <tr>
     <td class="tg-zd5i">12</td>
     <td class="tg-zd5i">Multi-armed bandits in the stationary arm model <br>Regret, Hoeffding inequality, uniform exploration, adaptive exploration</td>
-    <td class="tg-ltad">UCB</td>
+    <td class="tg-zd5i">UCB</td>
     <td class="tg-zd5i">Ch. 1 in Slivkins' book</td>
   </tr>
   <tr>
     <td class="tg-zd5i">13</td>
     <td class="tg-zd5i">MDPs with large state spaces - Monte Carlo Tree Search (UCT)<br>Deep RL (overview)</td>
-    <td class="tg-ltad">TD(0)+FA convergence</td>
+    <td class="tg-zd5i">TD(0)+FA convergence</td>
     <td class="tg-zd5i">Ch. 9.2 in Lecture Notes</td>
   </tr>
 </table>
