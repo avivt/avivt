@@ -9,6 +9,7 @@ permalink: /teaching/
 
 # Teaching
 
+## Spring 2019 
 ## 046194 Planning and Learning in Dynamical Systems 
 ## (a.k.a. Reinforcement Learning)
 
