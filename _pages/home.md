@@ -27,7 +27,7 @@ My research focuses on AI and machine learning, with an emphasis on robotics app
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/py_pic.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/my_pic.jpg" alt="Slide 1" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
