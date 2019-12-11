@@ -1,3 +1,18 @@
+- title: "Deep Variational Semi-Supervised Novelty Detection"
+  image: 
+  description: 
+  authors: T. Daniel, T. Kurutach, and A. Tamar.
+  link:
+    url: https://arxiv.org/abs/1911.04971
+    display:  "arXiv:1911.04971"
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 0
+  workshop: 0
+  preprint: 1
+  news2: 
+
 - title: "Sub-Goal Trees -- a Framework for Goal-Directed Trajectory Prediction and Optimization"
   image: ts_values_all.png
   description: We derive a new trajectory representation that recursively predicts sub goals, and use it to develop new imitation and RL frameworks.
