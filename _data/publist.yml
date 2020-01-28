@@ -229,7 +229,7 @@
   authors: T. Kurutach*, A. Tamar*, G. Yang, S. Russell, and P. Abbeel.
   link:
     url: http://papers.nips.cc/paper/8090-learning-plannable-representations-with-causal-infogan
-    display:  Advances in Neural Information Processing Systems (NIPS), 2018.
+    display:  Advances in Neural Information Processing Systems (NeurIPS), 2018.
   highlight: 1
   news1: 
   journal: 0
@@ -319,7 +319,7 @@
   authors: R. Lowe, Y. Wu, A. Tamar, J. Harb, P. Abbeel, and I. Mordatch.
   link:
     url: https://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mixed-cooperative-competitive-environments.pdf
-    display:  Advances in Neural Information Processing Systems (NIPS), pages 6382--6393, 2017.
+    display:  Advances in Neural Information Processing Systems (NeurIPS), pages 6382--6393, 2017.
   highlight: 0
   news1: 
   journal: 0
@@ -334,7 +334,7 @@
   authors: N. Levine, T. Zahavy, D. J. Mankowitz, A. Tamar, and S. Mannor.
   link:
     url: https://papers.nips.cc/paper/6906-shallow-updates-for-deep-reinforcement-learning.pdf
-    display:  Advances in Neural Information Processing Systems (NIPS), pages 3138--3148, 2017.
+    display:  Advances in Neural Information Processing Systems (NeurIPS), pages 3138--3148, 2017.
   highlight: 0
   news1: 
   journal: 0
@@ -395,7 +395,7 @@
   authors: A. Tamar, Y. Wu, G. Thomas, S. Levine, and P. Abbeel.
   link:
     url: http://papers.nips.cc/paper/6046-value-iteration-networks
-    display:  Advances in Neural Information Processing Systems (NIPS), pages 2154--2162, 2016.
+    display:  Advances in Neural Information Processing Systems (NeurIPS), pages 2154--2162, 2016.
   highlight: 1
   news1: Best paper award
   journal: 0
@@ -455,7 +455,7 @@
   authors: Y. Chow, A. Tamar, S. Mannor, and M. Pavone.  
   link:
     url: http://papers.nips.cc/paper/6014-risk-sensitive-and-robust-decision-making-a-cvar-optimization-approach
-    display:  Advances in Neural Information Processing Systems (NIPS), pages 1522--1530, 2015.
+    display:  Advances in Neural Information Processing Systems (NeurIPS), pages 1522--1530, 2015.
   highlight: 0
   news1: 
   journal: 0
@@ -470,7 +470,7 @@
   authors: A. Tamar, Y. Chow, M. Ghavamzadeh, and S. Mannor.
   link:
     url: http://papers.nips.cc/paper/5923-policy-gradient-for-coherent-risk-measures
-    display:  Advances in Neural Information Processing Systems (NIPS), pages 1468--1476, 2015.
+    display:  Advances in Neural Information Processing Systems (NeurIPS), pages 1468--1476, 2015.
   highlight: 0
   news1: 
   journal: 0
@@ -530,7 +530,7 @@
   authors: A. Tamar, P. Toulis, S. Mannor, and E. M. Airoldi.  
   link:
     url: https://arxiv.org/abs/1412.6734
-    display:  NIPS workshop on large-scale reinforcement learning and Markov decision problems, 2014.
+    display:  NeurIPS workshop on large-scale reinforcement learning and Markov decision problems, 2014.
   highlight: 0
   news1: 
   journal: 0
