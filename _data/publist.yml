@@ -4,13 +4,13 @@
   authors: E. Zisselman, and A. Tamar.
   link:
     url: https://arxiv.org/abs/2001.05419
-    display:  "arXiv:2001.05419"
+    display:  "Computer Vision and Pattern Recognition (CVPR), 2020"
   highlight: 0
   news1: 
   journal: 0
-  conference: 0
+  conference: 1
   workshop: 0
-  preprint: 1
+  preprint: 0
   news2: 
 
 - title: "Deep Variational Semi-Supervised Novelty Detection"
@@ -28,13 +28,13 @@
   preprint: 1
   news2: 
 
-- title: "Sub-Goal Trees -- a Framework for Goal-Directed Trajectory Prediction and Optimization"
+- title: "Sub-Goal Trees -- a Framework for Goal-Based Reinforcement Learning"
   image: ts_values_all.png
-  description: We derive a new trajectory representation that recursively predicts sub goals, and use it to develop new imitation and RL frameworks.
-  authors: T. Jurgenson, E. Groshev, and A. Tamar.
+  description: We derive a new RL framework based on the all-pairs shortest path problem.
+  authors: T. Jurgenson, O. Avner, E. Groshev, and A. Tamar.
   link:
-    url: https://arxiv.org/abs/1906.05329
-    display:  "arXiv:1906.05329"
+    url: https://arxiv.org/abs/2002.12361
+    display:  "arXiv:2002.12361"
   highlight: 1
   news1: 
   journal: 0
