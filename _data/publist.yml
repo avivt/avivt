@@ -178,19 +178,19 @@
   preprint: 0
   news2: 
 
-- title: "Safe policy learning from observations"
+- title: "Constrained Policy Improvement for Efficient Reinforcement Learning"
   image: 
   description: 
   authors: E. Sarafian, A. Tamar, and S. Kraus. 
   link:
     url: https://arxiv.org/abs/1805.07805
-    display:  arXiv:1805.07805
+    display:  IJCAI-PRICAI 2020
   highlight: 0
   news1: 
   journal: 0
-  conference: 0
+  conference: 1
   workshop: 0
-  preprint: 1
+  preprint: 0
   news2: 
 
 - title: "Domain randomization for active pose estimation"
