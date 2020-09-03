@@ -28,13 +28,13 @@
   preprint: 0
   news2: 
 
-- title: "Deep residual flow for out of distribution detection"
+- title: "Hallucinative Topological Memory for Zero-Shot Visual Planning"
   image: 
   description: 
-  authors: E. Zisselman, and A. Tamar.
+  authors: K. Liu, T. Kurutach, C. Tung, P. Abbeel, and A. Tamar.
   link:
-    url: https://arxiv.org/abs/2001.05419
-    display:  "Computer Vision and Pattern Recognition (CVPR), 2020"
+    url: https://arxiv.org/abs/2002.12336
+    display:  "International Conference on Machine Learning (ICML), 2020"
   highlight: 0
   news1: 
   journal: 0
@@ -64,13 +64,28 @@
   authors: T. Jurgenson, O. Avner, E. Groshev, and A. Tamar.
   link:
     url: https://arxiv.org/abs/2002.12361
-    display:  "arXiv:2002.12361"
+    display:  "International Conference on Machine Learning (ICML), 2020"
   highlight: 1
   news1: 
   journal: 0
-  conference: 0
+  conference: 1
   workshop: 0
-  preprint: 1
+  preprint: 0
+  news2: 
+
+- title: "Deep Residual Flow for Out of Distribution Detection"
+  image: 
+  description: 
+  authors: E. Zisselman, and A. Tamar.
+  link:
+    url: https://arxiv.org/abs/2001.05419
+    display:  "Computer Vision and Pattern Recognition (CVPR), 2020"
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Harnessing reinforcement learning for neural motion planning"
@@ -193,19 +208,19 @@
   preprint: 0
   news2: 
 
-- title: "Safe policy learning from observations"
+- title: "Constrained Policy Improvement for Efficient Reinforcement Learning"
   image: 
   description: 
   authors: E. Sarafian, A. Tamar, and S. Kraus. 
   link:
     url: https://arxiv.org/abs/1805.07805
-    display:  arXiv:1805.07805
+    display:  IJCAI-PRICAI 2020
   highlight: 0
   news1: 
   journal: 0
-  conference: 0
+  conference: 1
   workshop: 0
-  preprint: 1
+  preprint: 0
   news2: 
 
 - title: "Domain randomization for active pose estimation"
