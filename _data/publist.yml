@@ -1,4 +1,34 @@
-- title: "Deep Residual Flow for Out of Distribution Detection"
+- title: "Offline meta reinforcement learning"
+  image: 
+  description: 
+  authors: R. Dorfman and A. Tamar.
+  link:
+    url: https://arxiv.org/abs/2008.02598
+    display:  "arXiv:2008.02598"
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 0
+  workshop: 0
+  preprint: 1
+  news2: 
+
+- title: "Efficient MDP analysis for selfish-mining in blockchains"
+  image: 
+  description: 
+  authors: R. Bar Zur, I. Eyal, and A. Tamar.
+  link:
+    url: https://arxiv.org/abs/2007.05614
+    display:  "ACM Advances in Financial Technologies"
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2: 
+
+- title: "Deep residual flow for out of distribution detection"
   image: 
   description: 
   authors: E. Zisselman, and A. Tamar.
