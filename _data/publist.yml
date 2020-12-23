@@ -1,11 +1,26 @@
-- title: "Offline meta reinforcement learning"
+- title: "Online Safety Assurance for Learning-Augmented Systems"
   image: 
   description: 
+  authors: N. H. Rotman, M. Schapira, and A. Tamar. 
+  link:
+    url: https://arxiv.org/abs/2010.03625
+    display:  "ACM Workshop on Hot Topics in Networks (HotNets), 2020"
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2: 
+
+- title: "Offline meta reinforcement learning"
+  image: OMRL.jpg
+  description: "We formulate a Bayesian view of offline meta RL, and learn how to effectively explore in a new task."
   authors: R. Dorfman and A. Tamar.
   link:
     url: https://arxiv.org/abs/2008.02598
     display:  "arXiv:2008.02598"
-  highlight: 0
+  highlight: 1
   news1: 
   journal: 0
   conference: 0
