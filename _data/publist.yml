@@ -1,3 +1,48 @@
+- title: "Unsupervised Feature Learning for Manipulation with Contrastive Domain Randomization"
+  image: cdr.png
+  description: "Randomly play with objects in simulation, and learn features that transfer to real world manipulation"
+  authors: C. Rabinovitz, N. Grupen, and A. Tamar.
+  link:
+    url: https://arxiv.org/abs/2103.11144
+    display:  "IEEE International Conference on Robotics and Automation (ICRA), 2021."
+  highlight: 1
+  news1: 
+  journal: 0
+  conference: 0
+  workshop: 0
+  preprint: 1
+  news2:
+
+- title: "Efficient Self-Supervised Data Collection for Offline Robot Learning"
+  image: ssdc.png
+  description: "Combine curiosity with goal-based RL for efficient exploration in robotic manipulation"
+  authors: S. Endrawis, G. Leibovich, G. Jacob, G. Novik, and A. Tamar.
+  link:
+    url: https://sites.google.com/view/efficientself-superviseddataco
+    display:  "IEEE International Conference on Robotics and Automation (ICRA), 2021."
+  highlight: 1
+  news1: 
+  journal: 0
+  conference: 0
+  workshop: 0
+  preprint: 1
+  news2:
+
+- title: "Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder"
+  image: sintrovae.png
+  description: "A new generative model that combines the strengths of both VAEs and GANs"
+  authors: T. Daniel and A. Tamar.
+  link:
+    url: https://arxiv.org/abs/2012.13253
+    display:  "Computer Vision and Pattern Recognition (CVPR), 2020"
+  highlight: 1
+  news1: Oral
+  journal: 0
+  conference: 0
+  workshop: 0
+  preprint: 1
+  news2: 
+
 - title: "Online Safety Assurance for Learning-Augmented Systems"
   image: 
   description: 
