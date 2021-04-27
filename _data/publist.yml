@@ -8,9 +8,9 @@
   highlight: 1
   news1: 
   journal: 0
-  conference: 0
+  conference: 1
   workshop: 0
-  preprint: 1
+  preprint: 0
   news2:
 
 - title: "Efficient Self-Supervised Data Collection for Offline Robot Learning"
@@ -23,9 +23,9 @@
   highlight: 1
   news1: 
   journal: 0
-  conference: 0
+  conference: 1
   workshop: 0
-  preprint: 1
+  preprint: 0
   news2:
 
 - title: "Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder"
@@ -38,9 +38,9 @@
   highlight: 1
   news1: Oral
   journal: 0
-  conference: 0
+  conference: 1
   workshop: 0
-  preprint: 1
+  preprint: 0
   news2: 
 
 - title: "Online Safety Assurance for Learning-Augmented Systems"
