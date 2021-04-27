@@ -58,10 +58,10 @@
   preprint: 0
   news2: 
 
-- title: "Offline meta reinforcement learning"
+- title: "Offline Meta Learning of Exploration"
   image: OMRL.jpg
   description: "We formulate a Bayesian view of offline meta RL, and learn how to effectively explore in a new task."
-  authors: R. Dorfman and A. Tamar.
+  authors: R. Dorfman, I. Shenfeld, and A. Tamar.
   link:
     url: https://arxiv.org/abs/2008.02598
     display:  "arXiv:2008.02598"
