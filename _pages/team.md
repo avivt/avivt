@@ -8,12 +8,12 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+<!--  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [Current group members](#staff), [alumni](#alumni).
 
-## Staff
+## Current group members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -24,7 +24,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /> -->
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
@@ -78,7 +78,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Master and Bachelor Students
+## Undergrad Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -144,7 +144,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /> -->
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }} <br> Role: {{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
@@ -166,7 +166,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-<table align="center" style="width:100%">
+<!-- <table align="center" style="width:100%">
  <tr>
     <th>Visitors</th>
     <th>Master Students</th>
@@ -212,7 +212,5 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
     <td></td>
     <td>Daniëlle van Klink, Spring 2016</td>
   </tr>
-</table>
+</table> -->
 
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
