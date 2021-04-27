@@ -71,7 +71,8 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 {% if publi.journal == 1 %}
 
-  {{ publi.title }} <br />
+  {% assign i = i | plus:1 %}
+  {{i}}. {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endif %}
@@ -82,7 +83,8 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 {% if publi.conference == 1 %}
 
-  {{ publi.title }} <br />
+  {% assign i = i | plus:1 %}
+  {{i}}. {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endif %}
@@ -93,7 +95,8 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 {% if publi.workshop == 1 %}
 
-  {{ publi.title }} <br />
+  {% assign i = i | plus:1 %}
+  {{i}}. {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endif %}
