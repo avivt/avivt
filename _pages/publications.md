@@ -60,7 +60,7 @@ permalink: /publications/
 {% if publi.preprint == 1 %}
   
   {% assign i = i | plus:1 %}
-  {i}. {{ publi.title }} <br />
+  {{i}}. {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endif %}
