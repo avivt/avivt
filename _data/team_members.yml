@@ -2,13 +2,15 @@
   photo: tbd.jpg
   info: Assistant Professor
   email: 
+  webpage:
   number_educ: 0
   education1: 
 
 - name: Eli Shafer
-  photo: tbd.jpg
+  photo: Eli_Shafer.jpg
   info: Lab engineer
-  email: 
+  email: shafer@technion.ac.il
+  webpage: 
   number_educ: 0
   education1: 
 
@@ -16,13 +18,15 @@
   photo: tbd.jpg
   info: PhD student
   email: 
+  webpage:
   number_educ: 0
   education1: 
 
 - name: Tom Jurgenson
-  photo: tbd.jpg
+  photo: tomj.jpg
   info: PhD student
-  email: 
+  email: tomjur@campus.technion.ac.il
+  webpage:https://tomjur.github.io/
   number_educ: 0
   education1: 
 
@@ -30,20 +34,23 @@
   photo: tbd.jpg
   info: PhD student
   email: 
+  webpage:
   number_educ: 0
   education1: 
 
 - name: Tal Daniel
-  photo: tbd.jpg
+  photo: TalDanielProfile.jpg
   info: PhD student
-  email: 
+  email: taldanielm@campus.technion.ac.il
+  webpage: https://taldatech.github.io/
   number_educ: 0
   education1: 
 
 - name: Roi Bar Zur
-  photo: tbd.jpg
+  photo: roi.jpg
   info: PhD student (main supervisor Ittay Eyal)
-  email: 
+  email: roi.bar-zur@campus.technion.ac.il
+  webpage:
   number_educ: 0
   education1: 
 
@@ -51,6 +58,7 @@
   photo: tbd.jpg
   info: MSc student
   email: 
+  webpage:
   number_educ: 0
   education1: 
 
@@ -58,6 +66,7 @@
   photo: tbd.jpg
   info: MSc student
   email: 
+  webpage:
   number_educ: 0
   education1:
 
@@ -65,22 +74,22 @@
   photo: tbd.jpg
   info: MSc student
   email: 
+  webpage:
   number_educ: 0
   education1:
 
 - name: Ido Yehezkel
-  photo: tbd.jpg
+  photo: Ido_Yehezkel.jpeg
   info: MSc student (main supervisor Ariel Orda)
-  email: 
+  email: idoye@campus.technion.ac.il
+  webpage:
   number_educ: 0
   education1:
-
-# - name: "This could be you !"
-#   photo: rock.jpg
-#   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-#   email: milan.allan@gmail.com
-#   number_educ: 0
-#   education1:
-#   education2:
-#   education3:
-#   education4:
+  
+  - name: Idan Shenfeld
+  photo: tbd.jpg
+  info: Ugrad student
+  email: idanshen@campus.technion.ac.il
+  webpage: 
+  number_educ: 0
+  education1: 
