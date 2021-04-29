@@ -13,6 +13,8 @@ permalink: /teaching/
 ## 046194 Planning and Learning in Dynamical Systems 
 ## (a.k.a. Reinforcement Learning)
 
+<a href="{{ site.url }}{{ site.baseurl }}/teaching_rl_2019">Spring 2019 offering</a>
+
 Resources: 
 
 <a href="{{ site.url }}{{ site.baseurl }}/downloads/RL_lectures_July_19.pdf">Lecture notes</a> by S. Mannor, N. Shimkin, A. Tamar
