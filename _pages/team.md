@@ -24,7 +24,7 @@ Jump to [Current group members](#staff), [alumni](#alumni).
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /> -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}><br>homepage: <{{ member.webpage }}></i>
   <ul style="overflow: hidden">
