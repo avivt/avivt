@@ -8,9 +8,17 @@
 #  education3:
 #  education4:
 
-- name: Idan Shenfeld
-  photo: tbd.jpg
+# - name: Idan Shenfeld
+#   photo: tbd.jpg
+#   info: Ugrad student
+#   email: 
+#   number_educ: 0
+#   education1:
+
+  - name: Idan Shenfeld
+  photo: bio-photo.jpg
   info: Ugrad student
-  email: 
+  email: idanshen@campus.technion.ac.il
+  webpage: 
   number_educ: 0
-  education1:
+  education1: 
