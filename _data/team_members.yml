@@ -15,7 +15,7 @@
   education1: 
 
 - name: Orr Krupnik
-  photo: tbd.jpg
+  photo: bio-photo.jpg
   info: PhD student
   email: 
   webpage:
@@ -31,7 +31,7 @@
   education1: 
 
 - name: Ev Zisselman
-  photo: tbd.jpg
+  photo: bio-photo.jpg
   info: PhD student
   email: 
   webpage:
@@ -55,7 +55,7 @@
   education1: 
 
 - name: Shadi Endraweis
-  photo: tbd.jpg
+  photo: bio-photo.jpg
   info: MSc student
   email: 
   webpage:
@@ -63,7 +63,7 @@
   education1: 
 
 - name: Carmel Rabinovitz
-  photo: tbd.jpg
+  photo: bio-photo.jpg
   info: MSc student
   email: 
   webpage:
@@ -71,7 +71,7 @@
   education1:
 
 - name: Or Avner
-  photo: tbd.jpg
+  photo: bio-photo.jpg
   info: MSc student
   email: 
   webpage:
@@ -87,7 +87,7 @@
   education1:
   
   - name: Idan Shenfeld
-  photo: tbd.jpg
+  photo: bio-photo.jpg
   info: Ugrad student
   email: idanshen@campus.technion.ac.il
   webpage: 
