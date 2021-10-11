@@ -1,3 +1,18 @@
+- title: "Regularization Guarantees Generalization in Bayesian Reinforcement Learning through Algorithmic Stability"
+  image: 
+  description: 
+  authors: A. Tamar, D. Soudry, E. Zisselman.
+  link:
+    url: https://arxiv.org/abs/2109.11792
+    display:  "arXiv:2109.11792"
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 0
+  workshop: 0
+  preprint: 1
+  news2: 
+
 - title: "Unsupervised Feature Learning for Manipulation with Contrastive Domain Randomization"
   image: cdr.png
   description: "Randomly play with objects in simulation, and learn features that transfer to real world manipulation"
@@ -64,7 +79,7 @@
   authors: R. Dorfman, I. Shenfeld, and A. Tamar.
   link:
     url: https://arxiv.org/abs/2008.02598
-    display:  "arXiv:2008.02598"
+    display:  "Advances in Neural Information Processing Systems (NeurIPS), 2021."
   highlight: 1
   news1: 
   journal: 0
