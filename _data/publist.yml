@@ -83,9 +83,9 @@
   highlight: 1
   news1: 
   journal: 0
-  conference: 0
+  conference: 1
   workshop: 0
-  preprint: 1
+  preprint: 0
   news2: 
 
 - title: "Efficient MDP analysis for selfish-mining in blockchains"
