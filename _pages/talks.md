@@ -9,7 +9,6 @@ permalink: /talks/
 # Selected Talks
 
 
-## Selected Talks
 {% assign number_printed = 0 %}
 {% for talk in site.data.talks %}
 
