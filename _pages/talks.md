@@ -21,8 +21,11 @@ permalink: /talks/
 
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/talks/{{ talk.photo }}" class="img-responsive" width="35%" style="float: left" />
-  <h4>{{ talk.title }}</h4>
-  <i>{{ talk.title }}<br>link: <{{ talk.link }}><br>abstract: <{{ talk.abstract }}><br>venue: <{{ talk.info }}></i>
+  <h4>{{ talk.name }}</h4>
+  <i>{{ talk.name }}
+  <br>link: <{{ talk.link }}>
+  <br>abstract: <{{ talk.abstract }}>
+  <br>venue: <{{ talk.info }}></i>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
