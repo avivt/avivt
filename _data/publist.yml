@@ -1,16 +1,31 @@
-- title: "Regularization Guarantees Generalization in Bayesian Reinforcement Learning through Algorithmic Stability"
+- title: "Efficient Self-Supervised Data Collection for Offline Robot Learning"
   image: 
-  description: 
-  authors: A. Tamar, D. Soudry, E. Zisselman.
+  description: "Validate on Sim, Detect on Real -- Model Selection for Domain Randomization"
+  authors: G. Leibovich, G. Jacob, S. Endrawis, G. Novik, and A. Tamar.
   link:
-    url: https://arxiv.org/abs/2109.11792
-    display:  "arXiv:2109.11792"
+    url: https://arxiv.org/abs/2111.00765
+    display: "arXiv:2111.00765"
   highlight: 0
   news1: 
   journal: 0
   conference: 0
   workshop: 0
   preprint: 1
+  news2:
+
+- title: "Regularization Guarantees Generalization in Bayesian Reinforcement Learning through Algorithmic Stability"
+  image: 
+  description: 
+  authors: A. Tamar, D. Soudry, E. Zisselman.
+  link:
+    url: https://arxiv.org/abs/2109.11792
+    display:  "AAAI, 2022."
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
   news2: 
 
 - title: "Unsupervised Feature Learning for Manipulation with Contrastive Domain Randomization"
