@@ -21,7 +21,7 @@ permalink: /talks/
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/talks/{{ talk.photo }}" class="img-responsive" width="35%" style="float: left" />
   <h4>{{ talk.name }}</h4>
-  <i>{{ talk.link }}
+  <i><{{ talk.link }}>
   <br>{{ talk.info }}
   <br>{{ talk.abstract }}
   </i>
