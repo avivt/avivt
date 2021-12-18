@@ -23,7 +23,7 @@ permalink: /talks/
   <h4>{{ talk.name }}</h4>
   <i><{{ talk.link }}>
   <br>{{ talk.info }}
-  <br>{{ talk.abstract }}
+  <!-- <br>{{ talk.abstract }} -->
   </i>
 </div>
 
