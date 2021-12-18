@@ -1,0 +1,46 @@
+
+
+- name: Learning to Explore from Data
+  photo: NeurIPS2021.png
+  abstract: "How can an agent learn to quickly perform well in an unknown task? This is the basic question in reinforcement learning (RL), and is critical for any effective combination of planning and learning. We study this question under the Bayesian (a.k.a. Meta RL) setting, where the essence is generalization: given a training set of tasks from some task distribution, design an agent that quickly performs well in an unseen test task. BOReL is an offline Bayesian RL algorithm that can learn effective exploration policies from offline data. Key to making this work is solving an identifiability problem, which we characterize, and devise effective data collection policies to mitigate. I will then present recent work on the theory of generalization in Bayesian RL -- given N MDPs sampled from some prior, can we guarantee near Bayes-optimal performance with high probability? We develop the first (to our knowledge) PAC bounds for this problem, where our key contribution is showing that by adding a suitable regularization term, the solution to the Bayesian RL optimization problem is uniformly stable. To show this, we prove that regularized MDPs, while not convex, satisfy a quadratic growth property, which is just enough to show stability, and thereby derive generalization bounds."
+  info: NeurIPS 2021 Offline RL workshop
+  link: https://recorder-v3.slideslive.com/#/share?share=54185&s=7d792644-a81b-44a1-b061-25bc105dc466
+  webpage: 
+  number_educ: 0
+  education1: 
+
+- name: Learning to Plan and Planning to Learn
+  photo: ICAPS2021.png
+  abstract: "Two main paradigms for solving sequential decision making problems are planning - searching through possible future outcomes to achieve a goal, and reinforcement learning (RL) - learning reactive policies through trial and error. This talk focuses on algorithmic interfaces between planning and RL. We start by asking about the capability of deep networks to learn planning computations, and present the Value Iteration Network, a type of differentiable planner that can be used within model-free RL. Planning problems, however, are goal based, and a planner must provide a solution for every possible goal. Standard RL, on the other hand, is based on a single goal formulation (the reward function), and making RL work in a multi-goal setting is challenging. We introduce Sub-Goal Trees (SGTs) - a new RL formulation based on a different first principle - the all-pairs shortest path problem on graphs. We show that for deterministic multi-goal problems, SGTs are provably better at handling approximation errors than conventional RL (O(NlogN) vs. O(N^2)), and we demonstrate empirical results on learning motion planning for a 7 DoF robot using deep neural networks. Finally, we ask how an RL agent can plan to best explore/exploit its environment, as cast in the following problem: given the training logs of N conventional RL agents, trained on N different tasks, train an agent that can quickly maximize reward in a new, unseen task from the same task distribution. We take a Bayesian RL view, and seek to learn a Bayes-optimal policy from the offline data. However, the offline nature of the problem entails identifiability challenges, for which we propose several solutions and a practical algorithm. On a range of challenging tasks, we demonstrate learning of near-optimal exploration/exploitation behavior. Remarkably, the learned behavior can be qualitatively different from the behavior of any RL agent in the data."
+  info: Bridging the Gap Between AI Planning and Reinforcement Learning (PRL) – Workshop at ICAPS 2021
+  link: https://www.youtube.com/watch?v=a0Xj5DrO06Q&ab_channel=PRLWorkshop%E2%80%93PlanningandReinforcementLearning
+  webpage: 
+  number_educ: 0
+  education1: 
+
+- name: Real World RL Challenges
+  photo: RWRL2020.png
+  abstract: 
+  info: The Challenges of Real World Reinforcement Learning – Workshop at NeurIPS 2020
+  link: https://slideslive.com/38939990/real-world-rl-challenges
+  webpage: 
+  number_educ: 0
+  education1: 
+
+- name: The Interface of Reinforcement Learning and Planning
+  photo: HUJI2020.png
+  abstract: "In reinforcement learning (RL), an agent learns to solve sequential decision making problems through trial and error. When combined with deep networks, RL has the potential to learn domain representations that are important for making good decisions, such as patterns in board games (Go, Chess), or image features in video games. Based on this observation, there is recent interest in applying RL to more general planning problems, such as combinatorial optimization, autonomous driving, or protein folding, where the key idea is that when encountering many similar problems, some structure of the solution could be learned by RL to speed up the planning computation. In this talk, I will discuss the algorithmic interface between planning and RL, focusing on both the representation architecture and the learning algorithms. We start by asking about the capability of deep networks to learn planning computations, and introduce value iteration networks, a type of differentiable planner that can be used within model-free RL to obtain better generalization. Next, we consider a practical robotic assembly problem, and show that motion planning, based on readily available CAD data, can be combined with RL to quickly learn policies for assembling tight fitting objects. "
+  info: HUJI Machine Learning Club 2020
+  link: https://www.youtube.com/watch?v=8tNM8OAFgk0&ab_channel=HUJIMachineLearningClub
+  webpage: 
+  number_educ: 0
+  education1: 
+
+- name: Learning Representations for Planning
+  photo: Technion2019.png
+  abstract: "How can we build autonomous robots that operate in unstructured and dynamic environments such as homes or hospitals? This problem has been investigated under several disciplines, including planning (motion planning, task planning, etc.), and reinforcement learning. While both of these fields have witnessed tremendous progress, each have fundamental drawbacks when it comes to autonomous robots. In general, planning approaches require substantial manual engineering in specifying a model for the domain, while RL is data hungry and does not generalize beyond the tasks seen during training. In this talk, we present several studies that aim to mitigate these shortcomings by combining ideas from both planning and learning. We start by introducing value iteration networks, a type of differentiable planner that can be used within model-free RL to obtain better generalization. Next, we consider a practical robotic assembly problem, and show that motion planning, based on readily available CAD data, can be combined with RL to quickly learn policies for assembling tight fitting objects. We conclude with our recent work on learning to imagine goal-directed visual plans. Motivated by humans’  remarkable capability to predict and plan complex manipulations of objects, we develop a data-driven method that learns to ‘imagine’ a plausible sequence of observations that transition a dynamical system from its current configuration to a desired goal state. Key to our method is Causal InfoGAN, a deep generative model that can learn features that are compatible with strong planning algorithms. We demonstrate our approach on learning to imagine and execute robotic rope manipulation."
+  info: Technion's Machine Learning Seminar
+  link: https://www.youtube.com/watch?v=vixIF2WAwS4&t=2570s&ab_channel=Technion%27sMachineLearningSeminar
+  webpage: 
+  number_educ: 0
+  education1: 
