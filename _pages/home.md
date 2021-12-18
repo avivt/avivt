@@ -30,7 +30,10 @@ My research focuses on AI and machine learning, with an emphasis on robotics app
             <img src="{{ site.url }}{{ site.baseurl }}/images/my_pic_small.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/set_up.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/lab.png" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/set_up.png" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
