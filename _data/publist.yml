@@ -1,6 +1,6 @@
-- title: "Efficient Self-Supervised Data Collection for Offline Robot Learning"
+- title: "Validate on Sim, Detect on Real -- Model Selection for Domain Randomization"
   image: 
-  description: "Validate on Sim, Detect on Real -- Model Selection for Domain Randomization"
+  description: 
   authors: G. Leibovich, G. Jacob, S. Endrawis, G. Novik, and A. Tamar.
   link:
     url: https://arxiv.org/abs/2111.00765
