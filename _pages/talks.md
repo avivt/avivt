@@ -20,7 +20,7 @@ permalink: /talks/
 {% endif %}
 
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/talks/{{ talk.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/talks/{{ talk.photo }}" class="img-responsive" width="35%" style="float: left" />
   <h4>{{ talk.title }}</h4>
   <i>{{ talk.title }}<br>link: <{{ talk.link }}><br>abstract: <{{ talk.abstract }}><br>venue: <{{ talk.info }}></i>
 </div>
