@@ -4,13 +4,13 @@
   authors: G. Leibovich, G. Jacob, S. Endrawis, G. Novik, and A. Tamar.
   link:
     url: https://arxiv.org/abs/2111.00765
-    display: "arXiv:2111.00765"
+    display: "International Conference on Robotics and Automation (ICRA), 2022."
   highlight: 0
   news1: 
   journal: 0
-  conference: 0
+  conference: 1
   workshop: 0
-  preprint: 1
+  preprint: 0
   news2:
 
 - title: "Regularization Guarantees Generalization in Bayesian Reinforcement Learning through Algorithmic Stability"
@@ -21,7 +21,7 @@
     url: https://arxiv.org/abs/2109.11792
     display:  "AAAI, 2022."
   highlight: 0
-  news1: 
+  news1: Oral
   journal: 0
   conference: 1
   workshop: 0
