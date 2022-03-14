@@ -4,7 +4,7 @@
   photo: NeurIPS2021.png
   abstract: "How can an agent learn to quickly perform well in an unknown task? This is the basic question in reinforcement learning (RL), and is critical for any effective combination of planning and learning. We study this question under the Bayesian (a.k.a. Meta RL) setting, where the essence is generalization: given a training set of tasks from some task distribution, design an agent that quickly performs well in an unseen test task. BOReL is an offline Bayesian RL algorithm that can learn effective exploration policies from offline data. Key to making this work is solving an identifiability problem, which we characterize, and devise effective data collection policies to mitigate. I will then present recent work on the theory of generalization in Bayesian RL -- given N MDPs sampled from some prior, can we guarantee near Bayes-optimal performance with high probability? We develop the first (to our knowledge) PAC bounds for this problem, where our key contribution is showing that by adding a suitable regularization term, the solution to the Bayesian RL optimization problem is uniformly stable. To show this, we prove that regularized MDPs, while not convex, satisfy a quadratic growth property, which is just enough to show stability, and thereby derive generalization bounds."
   info: NeurIPS 2021 Offline RL workshop
-  link: https://recorder-v3.slideslive.com/#/share?share=54185&s=7d792644-a81b-44a1-b061-25bc105dc466
+  link: https://slideslive.com/38969401
   webpage: 
   number_educ: 0
   education1: 
