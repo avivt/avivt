@@ -1,3 +1,18 @@
+- title: "WeRLman: To Tackle Whale (Transactions), Go Deep (RL)"
+  image: 
+  description: 
+  authors: R. Bar-Zur, A. Abu-Hanna, I. Eyal, and A. Tamar.
+  link:
+    url: https://eprint.iacr.org/2022/175.pdf
+    display: "Cryptology ePrint Archive"
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 0
+  workshop: 0
+  preprint: 1
+  news2:
+
 - title: "Validate on Sim, Detect on Real -- Model Selection for Domain Randomization"
   image: 
   description: 
