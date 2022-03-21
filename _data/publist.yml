@@ -29,13 +29,13 @@
   news2:
 
 - title: "Regularization Guarantees Generalization in Bayesian Reinforcement Learning through Algorithmic Stability"
-  image: 
-  description: 
+  image: reg_mdp.png
+  description: We develop PAC bounds for Bayesian RL (meta-RL). A key underlying result is showing algorithmic stability for regularized MDPs.
   authors: A. Tamar, D. Soudry, E. Zisselman.
   link:
     url: https://arxiv.org/abs/2109.11792
     display:  "AAAI, 2022."
-  highlight: 0
+  highlight: 1
   news1: Oral
   journal: 0
   conference: 1
