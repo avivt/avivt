@@ -36,6 +36,9 @@ My research focuses on AI and machine learning, with an emphasis on robotics app
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/set_up.png" alt="Slide 3" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/outing22.jpeg" alt="Slide 2" />
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
