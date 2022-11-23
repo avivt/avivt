@@ -54,26 +54,10 @@
   number_educ: 0
   education1: 
 
-- name: Shadi Endraweis
-  photo: bio-photo.jpg
-  info: MSc student
-  email: 
-  webpage:
-  number_educ: 0
-  education1: 
-
 - name: Or Avner
   photo: bio-photo.jpg
   info: MSc student
   email: 
-  webpage:
-  number_educ: 0
-  education1:
-
-- name: Ido Yehezkel
-  photo: Ido_Yehezkel.jpeg
-  info: MSc student (main supervisor Ariel Orda)
-  email: idoye@campus.technion.ac.il
   webpage:
   number_educ: 0
   education1:
@@ -88,6 +72,30 @@
 
 - name: Zohar Rimon
   photo: ZoharRimon.jpeg
+  info: MSc student
+  email: 
+  webpage:
+  number_educ: 0
+  education1:
+
+- name: Gal Avineri
+  photo: bio-photo.jpg
+  info: MSc student
+  email: 
+  webpage:
+  number_educ: 0
+  education1:
+
+- name: Meital Bojan
+  photo: bio-photo.jpg
+  info: MSc student
+  email: 
+  webpage:
+  number_educ: 0
+  education1:
+
+- name: Dan Haramati
+  photo: bio-photo.jpg
   info: MSc student
   email: 
   webpage:
