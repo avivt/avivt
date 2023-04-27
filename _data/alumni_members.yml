@@ -1,3 +1,20 @@
+
+- name: Or Avner
+  photo: bio-photo.jpg
+  info: MSc 2021-2023
+  email: 
+  webpage:
+  number_educ: 0
+  education1:
+
+- name: Ido Yehezkel
+  photo: tbd.jpg
+  info: MSc 2021-2023 w\ Ariel Orda, now at Final
+  email: 
+  webpage:
+  number_educ: 0
+  education1:
+
 - name: Carmel Rabinovitz
   photo: tbd.jpg
   duration: MSc 2019-2021, now at GM
