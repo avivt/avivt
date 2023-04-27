@@ -15,10 +15,10 @@
 #   number_educ: 0
 #   education1:
 
-- name: Idan Shenfeld
-  photo: idansh.jpg
-  info: Ugrad student
-  email: idanshen@campus.technion.ac.il
-  webpage: 
-  number_educ: 0
-  education1: 
+# - name: Idan Shenfeld
+#   photo: idansh.jpg
+#   info: Ugrad student
+#   email: idanshen@campus.technion.ac.il
+#   webpage: 
+#   number_educ: 0
+#   education1: 
