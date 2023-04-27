@@ -3,8 +3,8 @@
   description:
   authors: E. Choshen and A. Tamar
   link:
-  url: 
-  display: "International Conference on Machine Learning (ICML), 2023."
+    url: 
+    display: "International Conference on Machine Learning (ICML), 2023."
   highlight: 0
   news1:
   journal: 0
@@ -33,8 +33,8 @@
   description:
   authors: I. Shenfeld, Z.-W. Hong, A. Tamar, and P. Agrawal
   link:
-  url: 
-  display: "International Conference on Machine Learning (ICML), 2023."
+    url: 
+    display: "International Conference on Machine Learning (ICML), 2023."
   highlight: 0
   news1:
   journal: 0
@@ -48,8 +48,8 @@
   description:
   authors: K. Rohanimanesh, J. Metzger, W. Richards, and A. Tamar
   link:
-  url: 
-  display: "IEEE International Conference on Robotics and Automation (ICRA), 2023."
+    url: 
+    display: "IEEE International Conference on Robotics and Automation (ICRA), 2023."
   highlight: 0
   news1:
   journal: 0
@@ -63,8 +63,8 @@
   description:
   authors: Y. Perry, F. Frujeri, C. Hoch, S. Kandula, I. Menache, M. Schapira, and A. Tamar
   link:
-  url: https://www.usenix.org/conference/nsdi23/presentation/perry
-  display: "USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2023."
+    url: https://www.usenix.org/conference/nsdi23/presentation/perry
+    display: "USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2023."
   highlight: 0
   news1: "Best paper award"
   journal: 0
