@@ -1,16 +1,76 @@
+- title: "ContraBAR: Contrastive Bayes-Adaptive Deep RL"
+  image:
+  description:
+  authors: E. Choshen and A. Tamar
+  link:
+  url: 
+  display: "International Conference on Machine Learning (ICML), 2023."
+  highlight: 0
+  news1:
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2:
+
 - title: "Learning Control by Iterative Inversion"
   image: itin.jpeg
   description: Train large models to control diverse behaviors using a new learning approach
   authors: G. Leibovich, G. Jacob, O. Avner, G. Novik, and A. Tamar
   link:
     url: https://arxiv.org/abs/2211.01724
-    display: "arXiv:2211.01724"
+    display: "International Conference on Machine Learning (ICML), 2023"
   highlight: 1
   news1: 
   journal: 0
-  conference: 0
+  conference: 1
   workshop: 0
-  preprint: 1
+  preprint: 0
+  news2:
+
+- title: "TGRL: Teacher Guided Reinforcement Learning Algorithm for POMDPs"
+  image:
+  description:
+  authors: I. Shenfeld, Z.-W. Hong, A. Tamar, and P. Agrawal
+  link:
+  url: 
+  display: "International Conference on Machine Learning (ICML), 2023."
+  highlight: 1
+  news1:
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2:
+
+- title: "Online Tool Selection with Learned Grasp Prediction Models"
+  image:
+  description:
+  authors: K. Rohanimanesh, J. Metzger, W. Richards, and A. Tamar
+  link:
+  url: 
+  display: "IEEE International Conference on Robotics and Automation (ICRA), 2023."
+  highlight: 0
+  news1:
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2:
+
+- title: "DOTE: Rethinking WAN Traffic Engineering"
+  image:
+  description:
+  authors: Y. Perry, F. Frujeri, C. Hoch, S. Kandula, I. Menache, M. Schapira, and A. Tamar
+  link:
+  url: https://www.usenix.org/conference/nsdi23/presentation/perry
+  display: "USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2023."
+  highlight: 0
+  news1: "Best paper award"
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
   news2:
 
 - title: "Meta Reinforcement Learning with Finite Training Tasks-a Density Estimation Approach"
