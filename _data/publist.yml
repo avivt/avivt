@@ -710,7 +710,7 @@
   authors: Y. Chow, A. Tamar, S. Mannor, and M. Pavone.  
   link:
     url: http://papers.nips.cc/paper/6014-risk-sensitive-and-robust-decision-making-a-cvar-optimization-approach
-    display:  Advances in Neural Information Processing Systems (NeurIPS), pages 1522--1530, 2015.
+    display:  Advances in Neural Information Processing Systems (NeurIPS), pages 1522--1530, 2015. See https://arxiv.org/pdf/2304.12477.pdf for a discussion of an error in the optimality claim.
   highlight: 0
   news1: 
   journal: 0
