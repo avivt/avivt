@@ -1,3 +1,138 @@
+- title: "Towards Deployable RL--What's Broken with RL Research and a Potential Fix"
+  image: 
+  description: 
+  authors: Shie Mannor and Aviv Tamar
+  link:
+    url: https://arxiv.org/abs/2301.01320
+    display: "arXiv preprint arXiv:2301.01320, 2023"
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 0
+  workshop: 0
+  preprint: 1
+  news2: 
+
+- title: "Deep Bribe: Predicting the Rise of Bribery in Blockchain Mining with Deep RL"
+  image: 
+  description: 
+  authors: Roi Bar-Zur, Danielle Dori, Sharon Vardi, Ittay Eyal, and Aviv Tamar
+  link:
+    url: https://eprint.iacr.org/2023/472
+    display: "Deep Learning S&P Workshop 2023 (co-located with IEEE S&P)"
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2: 
+
+- title: "Goal-Conditioned Supervised Learning with Sub-Goal Prediction"
+  image: 
+  description: 
+  authors: Tom Jurgenson and Aviv Tamar
+  link:
+    url: https://arxiv.org/abs/2305.10171
+    display: "arXiv preprint arXiv:2305.10171, 2023"
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 0
+  workshop: 0
+  preprint: 1
+  news2: 
+
+- title: "Explore to Generalize in Zero-Shot RL"
+  image: 
+  description: 
+  authors: Ev Zisselman, Itai Lavie, Daniel Soudry, and Aviv Tamar
+  link:
+    url: https://arxiv.org/abs/2306.03072
+    display: "NeurIPS, 2023"
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2: 
+
+- title: "DDLP: Unsupervised Object-Centric Video Prediction with Deep Dynamic Latent Particles"
+  image: 
+  description: 
+  authors: Tal Daniel and Aviv Tamar
+  link:
+    url: https://arxiv.org/abs/2306.05957
+    display: "arXiv preprint arXiv:2306.05957, 2023"
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 0
+  workshop: 0
+  preprint: 1
+  news2: 
+
+- title: "Hierarchical Planning for Rope Manipulation using Knot Theory and a Learned Inverse Model"
+  image: 
+  description: 
+  authors: Matan Sudry, Tom Jurgenson, Aviv Tamar, and Erez Karpas
+  link:
+    url: https://openreview.net/forum?id=g_PPHV_GkX
+    display: "Conference on Robot Learning, 2023, pages 1596-1609, PMLR"
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2: 
+
+- title: "Fine-Tuning Generative Models as an Inference Method for Robotic Tasks"
+  image: 
+  description: https://openreview.net/forum?id=yGkqN4hqrJ
+  authors: Orr Krupnik, Elisei Shafer, Tom Jurgenson, and Aviv Tamar
+  link:
+    url: 
+    display: "Conference on Robot Learning, 2023, pages 866-886, PMLR"
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2: 
+
+- title: "Revealing principles of autonomous thermal soaring in windy conditions using vulture-inspired deep reinforcement-learning"
+  image: 
+  description: 
+  authors: Yoav Flato, Roi Harel, Aviv Tamar, Ran Nathan, and Tsevi Beatus
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2023.09.18.558216v1.full
+    display: "bioRxiv, 2023"
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 0
+  workshop: 0
+  preprint: 1
+  news2: 
+
+- title: "Entity-Centric Reinforcement Learning for Object Manipulation from Pixels"
+  image: 
+  description: 
+  authors: Dan Haramati, Tal Daniel, and Aviv Tamar
+  link:
+    url: 
+    display: "NeurIPS 2023 Workshop on Goal-Conditioned Reinforcement Learning"
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 0
+  workshop: 1
+  preprint: 0
+  news2: 
+
 - title: "ContraBAR: Contrastive Bayes-Adaptive Deep RL"
   image:
   description:
