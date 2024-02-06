@@ -321,7 +321,7 @@
   link:
     url: https://arxiv.org/abs/2103.11144
     display:  "International Conference on Robotics and Automation (ICRA), 2021."
-  highlight: 1
+  highlight: 0
   news1: 
   journal: 0
   conference: 1
@@ -336,7 +336,7 @@
   link:
     url: https://sites.google.com/view/efficientself-superviseddataco
     display:  "International Conference on Robotics and Automation (ICRA), 2021."
-  highlight: 1
+  highlight: 0
   news1: 
   journal: 0
   conference: 1
@@ -441,7 +441,7 @@
   link:
     url: https://arxiv.org/abs/2002.12361
     display:  "International Conference on Machine Learning (ICML), 2020"
-  highlight: 1
+  highlight: 0
   news1: 
   journal: 0
   conference: 1
