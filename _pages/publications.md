@@ -85,7 +85,7 @@ permalink: /publications/
 
   {% assign i = i | plus:1 %}
   {{i}}. {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <span style="color: red;">{{ publi.news1 }}</span>
 
 {% endif %}
 {% endfor %}
