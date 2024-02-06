@@ -1,3 +1,34 @@
+- title: "MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning"
+  image: 
+  description: 
+  authors: Zohar Rimon, Tom Jurgenson, Orr Krupnik, Gilad Adler, and Aviv Tamar
+  link:
+    url: https://openreview.net/forum?id=1RE0H6mU7M
+    display: "International Conference on Learning Representations (ICLR), 2024"
+  highlight: 0
+  news1: Spotlight
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2: 
+
+- title: "Entity-Centric Reinforcement Learning for Object Manipulation from Pixels"
+  image: 
+  description: 
+  authors: Dan Haramati, Tal Daniel, and Aviv Tamar
+  link:
+    url: https://openreview.net/forum?id=uDxeSZ1wdI
+    display: "International Conference on Learning Representations (ICLR), 2024"
+  highlight: 0
+  news1: Spotlight
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2: 
+
+
 - title: "Towards Deployable RL--What's Broken with RL Research and a Potential Fix"
   image: 
   description: 
@@ -64,13 +95,13 @@
   authors: Tal Daniel and Aviv Tamar
   link:
     url: https://arxiv.org/abs/2306.05957
-    display: "arXiv preprint arXiv:2306.05957, 2023"
+    display: "Transactions on Machine Learning Research (TMLR), 2024"
   highlight: 0
   news1: 
-  journal: 0
+  journal: 1
   conference: 0
   workshop: 0
-  preprint: 1
+  preprint: 0
   news2: 
 
 - title: "Hierarchical Planning for Rope Manipulation using Knot Theory and a Learned Inverse Model"
