@@ -1,7 +1,7 @@
 - title: "MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning"
   image: 
   description: 
-  authors: Zohar Rimon, Tom Jurgenson, Orr Krupnik, Gilad Adler, and Aviv Tamar
+  authors: Z. Rimon, T. Jurgenson, O. Krupnik, G. Adler, and A. Tamar
   link:
     url: https://openreview.net/forum?id=1RE0H6mU7M
     display: "International Conference on Learning Representations (ICLR), 2024"
@@ -16,7 +16,7 @@
 - title: "Entity-Centric Reinforcement Learning for Object Manipulation from Pixels"
   image: 
   description: 
-  authors: Dan Haramati, Tal Daniel, and Aviv Tamar
+  authors: D. Haramati, T. Daniel, and A. Tamar
   link:
     url: https://openreview.net/forum?id=uDxeSZ1wdI
     display: "International Conference on Learning Representations (ICLR), 2024"
@@ -32,7 +32,7 @@
 - title: "Towards Deployable RL--What's Broken with RL Research and a Potential Fix"
   image: 
   description: 
-  authors: Shie Mannor and Aviv Tamar
+  authors: S. Mannor and A. Tamar
   link:
     url: https://arxiv.org/abs/2301.01320
     display: "arXiv preprint arXiv:2301.01320, 2023"
@@ -47,7 +47,7 @@
 - title: "Deep Bribe: Predicting the Rise of Bribery in Blockchain Mining with Deep RL"
   image: 
   description: 
-  authors: Roi Bar-Zur, Danielle Dori, Sharon Vardi, Ittay Eyal, and Aviv Tamar
+  authors: R. Bar-Zur, D. Dori, S. Vardi, I. Eyal, and A. Tamar
   link:
     url: https://eprint.iacr.org/2023/472
     display: "Deep Learning S&P Workshop 2023 (co-located with IEEE S&P)"
@@ -62,7 +62,7 @@
 - title: "Goal-Conditioned Supervised Learning with Sub-Goal Prediction"
   image: 
   description: 
-  authors: Tom Jurgenson and Aviv Tamar
+  authors: T. Jurgenson and A. Tamar
   link:
     url: https://arxiv.org/abs/2305.10171
     display: "arXiv preprint arXiv:2305.10171, 2023"
@@ -77,7 +77,7 @@
 - title: "Explore to Generalize in Zero-Shot RL"
   image: 
   description: 
-  authors: Ev Zisselman, Itai Lavie, Daniel Soudry, and Aviv Tamar
+  authors: E. Zisselman, I. Lavie, D. Soudry, and A. Tamar
   link:
     url: https://arxiv.org/abs/2306.03072
     display: "Advances in Neural Information Processing Systems (NeurIPS), 2023"
@@ -92,7 +92,7 @@
 - title: "DDLP: Unsupervised Object-Centric Video Prediction with Deep Dynamic Latent Particles"
   image: 
   description: 
-  authors: Tal Daniel and Aviv Tamar
+  authors: T. Daniel and A. Tamar
   link:
     url: https://arxiv.org/abs/2306.05957
     display: "Transactions on Machine Learning Research (TMLR), 2024"
@@ -107,7 +107,7 @@
 - title: "Hierarchical Planning for Rope Manipulation using Knot Theory and a Learned Inverse Model"
   image: 
   description: 
-  authors: Matan Sudry, Tom Jurgenson, Aviv Tamar, and Erez Karpas
+  authors: M. Sudry, T. Jurgenson, A. Tamar, and E. Karpas
   link:
     url: https://openreview.net/forum?id=g_PPHV_GkX
     display: "Conference on Robot Learning (CoRL), 2023, pages 1596-1609"
@@ -122,7 +122,7 @@
 - title: "Fine-Tuning Generative Models as an Inference Method for Robotic Tasks"
   image: 
   description: https://openreview.net/forum?id=yGkqN4hqrJ
-  authors: Orr Krupnik, Elisei Shafer, Tom Jurgenson, and Aviv Tamar
+  authors: O. Krupnik, E. Shafer, T. Jurgenson, and A. Tamar
   link:
     url: 
     display: "Conference on Robot Learning (CoRL), 2023, pages 866-886"
@@ -137,7 +137,7 @@
 - title: "Revealing principles of autonomous thermal soaring in windy conditions using vulture-inspired deep reinforcement-learning"
   image: 
   description: 
-  authors: Yoav Flato, Roi Harel, Aviv Tamar, Ran Nathan, and Tsevi Beatus
+  authors: Y. Flato, R. Harel, A. Tamar, R. Nathan, and T. Beatus
   link:
     url: https://www.biorxiv.org/content/10.1101/2023.09.18.558216v1.full
     display: "bioRxiv, 2023"
@@ -147,21 +147,6 @@
   conference: 0
   workshop: 0
   preprint: 1
-  news2: 
-
-- title: "Entity-Centric Reinforcement Learning for Object Manipulation from Pixels"
-  image: 
-  description: 
-  authors: Dan Haramati, Tal Daniel, and Aviv Tamar
-  link:
-    url: 
-    display: "NeurIPS 2023 Workshop on Goal-Conditioned Reinforcement Learning"
-  highlight: 0
-  news1: 
-  journal: 0
-  conference: 0
-  workshop: 1
-  preprint: 0
   news2: 
 
 - title: "ContraBAR: Contrastive Bayes-Adaptive Deep RL"
