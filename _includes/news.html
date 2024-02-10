@@ -2,9 +2,6 @@
 <div class="well">
 <h4>News</h4>
 
-<!-- <a class="twitter-timeline" href="https://twitter.com/AvivTamarLab?ref_src=twsrc%5Etfw">Tweets by AvivTamarLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-
-<!-- {% include twitter_feed.html %} -->
 {% for article in site.data.news limit:9 %}
 {{ article.date }}
 <p><em>{{ article.headline }}</em></p>
@@ -13,4 +10,4 @@
 <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
 <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
     
-    </div>
+</div>
