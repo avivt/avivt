@@ -8,7 +8,8 @@ permalink: /allnews.html
 
 # News
 
-{% for article in site.data.news %}
+{% include twitter_feed.html %}
+<!-- {% for article in site.data.news %}
 <p>{{ article.date }} <br>
 <em>{{ article.headline }}</em></p>
-{% endfor %}
+{% endfor %} -->
