@@ -8,7 +8,7 @@ permalink: /allnews.html
 
 # News
 
-{% include twitter_feed.html %}
+{% include {{ site.url }}{{ site.baseurl }}/_includes/twitter_feed.html %}
 <!-- {% for article in site.data.news %}
 <p>{{ article.date }} <br>
 <em>{{ article.headline }}</em></p>
