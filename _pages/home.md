@@ -8,9 +8,14 @@ permalink: /
 
 Welcome to my homepage! 
 
-I'm an associate professor at Technion -- Israel Institute for Technology, in the Electrical and Computer Engineering (ECE) department. 
+I'm an associate professor at Technion ECE, and head of the Robot Learning Lab. 
 
-My research focuses on AI and machine learning, with an emphasis on robotics applications. My long term goal is to bring robots into human-centered domains such as homes and hospitals. Towards this goal, some fundamental questions need to be solved, such as how can machines learn models of their environments that are useful for performing tasks, and how to learn behavior from interaction in an interpretable and safe manner. Most of my work falls under the framework of reinforcement learning, and its connections to representation learning, planning, and risk-averse optimization. See my publications page for more details!
+My research focuses on AI and machine learning, with an emphasis on robotics applications. My long term goal is to bring robots into human-centered domains such as homes and hospitals. Towards this goal, some fundamental questions need to be solved, such as how can machines learn models of their environments that are useful for performing tasks, and how to learn behavior from interaction in an interpretable and safe manner. Most of my work falls under the framework of reinforcement learning, and its connections to representation learning and planning. 
+
+To learn about our research:
+- Browse our twitter feed for latest research highlights
+- Check out recorded talks
+- Dig in and read our papers
 
 <figure class="fourth">
   <center><img src="{{ site.url }}{{ site.baseurl }}/images/my_pic_small.png" style="width: 450px" class="center"></center>
