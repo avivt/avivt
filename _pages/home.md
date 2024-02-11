@@ -14,8 +14,8 @@ My research focuses on AI and machine learning, with an emphasis on robotics app
 
 To learn about our research:
 - Browse our twitter feed for latest research highlights
-- Check out recorded talks
-- Dig in and read our papers
+- Check out recorded <a href="{{ site.url }}{{ site.baseurl }}/talks">talks</a>
+- Dig in and read our <a href="{{ site.url }}{{ site.baseurl }}/publications">papers</a>
 
 <figure class="fourth">
   <center><img src="{{ site.url }}{{ site.baseurl }}/images/my_pic_small.png" style="width: 450px" class="center"></center>
