@@ -14,6 +14,7 @@ My research focuses on AI and machine learning, with an emphasis on robotics app
 
 <figure class="fourth">
   <center><img src="{{ site.url }}{{ site.baseurl }}/images/my_pic_small.png" style="width: 450px" class="center"></center>
+</figure>
 
 Previously, I was a postdoc in the Berkeley AI Research Lab (BAIR) at UC Berkeley, with Prof. Pieter Abbeel. I completed my PhD. at the Technion, supervised by Prof. Shie Mannor, and my MSc also at Technion, under the supervision of Prof. Ron Meir.
 
