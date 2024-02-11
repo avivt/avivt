@@ -1,6 +1,6 @@
 - name: Era Choshen
   photo: EraChoshen.jpg
-  info: MSc 2021-2023
+  duration: MSc 2021-2023
   email: 
   webpage:
   number_educ: 0
@@ -8,7 +8,7 @@
 
 - name: Tom Jurgenson
   photo: tomj.jpg
-  info: PhD 2018-2023
+  duration: PhD 2018-2023
   email: tomjur@campus.technion.ac.il
   webpage: https://tomjur.github.io/
   number_educ: 0
