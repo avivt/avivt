@@ -12,7 +12,9 @@ I'm an associate professor at Technion -- Israel Institute for Technology, in th
 
 My research focuses on AI and machine learning, with an emphasis on robotics applications. My long term goal is to bring robots into human-centered domains such as homes and hospitals. Towards this goal, some fundamental questions need to be solved, such as how can machines learn models of their environments that are useful for performing tasks, and how to learn behavior from interaction in an interpretable and safe manner. Most of my work falls under the framework of reinforcement learning, and its connections to representation learning, planning, and risk-averse optimization. See my publications page for more details!
 
+<div class="item active">
 <img src="{{ site.url }}{{ site.baseurl }}/images/my_pic_small.png" alt="Aviv Tamar" />
+</div>
 
 Previously, I was a postdoc in the Berkeley AI Research Lab (BAIR) at UC Berkeley, with Prof. Pieter Abbeel. I completed my PhD. at the Technion, supervised by Prof. Shie Mannor, and my MSc also at Technion, under the supervision of Prof. Ron Meir.
 
