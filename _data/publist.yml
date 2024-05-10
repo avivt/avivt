@@ -140,13 +140,13 @@
   authors: Y. Flato, R. Harel, A. Tamar, R. Nathan, and T. Beatus
   link:
     url: https://www.biorxiv.org/content/10.1101/2023.09.18.558216v1.full
-    display: "bioRxiv, 2023"
+    display: "Nature Communications, 2024"
   highlight: 0
   news1: 
-  journal: 0
+  journal: 1
   conference: 0
   workshop: 0
-  preprint: 1
+  preprint: 0
   news2: 
 
 - title: "ContraBAR: Contrastive Bayes-Adaptive Deep RL"
