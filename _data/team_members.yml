@@ -50,15 +50,7 @@
   photo: ZoharRimon.jpeg
   info: PhD student
   email: 
-  webpage:
-  number_educ: 0
-  education1:
-
-- name: Gal Avineri
-  photo: gal.png
-  info: MSc student
-  email: 
-  webpage:
+  webpage: https://zoharri.github.io/
   number_educ: 0
   education1:
 
@@ -71,7 +63,7 @@
   education1:
 
 - name: Dan Haramati
-  photo: bio-photo.jpg
+  photo: Dan_Headshot.jpg
   info: MSc student
   email: 
   webpage:
@@ -79,9 +71,9 @@
   education1:
 
 - name: Adi Levy
-  photo: bio-photo.jpg
+  photo: adi_headshot.jpg
   info: MSc student
   email: 
-  webpage:
+  webpage: https://danhrmti.github.io/
   number_educ: 0
   education1:
