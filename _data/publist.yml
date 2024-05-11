@@ -1,3 +1,34 @@
+- title: "A Bayesian Approach to Online Planning"
+  image: 
+  description: 
+  authors: N. Greshler, D. Ben Eli, C. Rabinovitz, L. Gispan, G. Guetta, G. Zohar, and A. Tamar
+  link:
+    url: 
+    display: "International Conference on Machine Learning (ICML), 2024"
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2: 
+
+- title: "Test-Time Regret Minimization in Meta Reinforcement Learning"
+  image: 
+  description: 
+  authors: M. Mutti and A. Tamar
+  link:
+    url: 
+    display: "International Conference on Machine Learning (ICML), 2024"
+  highlight: 0
+  news1: 
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2: 
+
+
 - title: "MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning"
   image: 
   description: 
