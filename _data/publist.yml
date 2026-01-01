@@ -3,7 +3,7 @@
   description: A surprising method to improve generalization in imitation learning by reducing information from the demonstrator
   authors: E. Zisselman, M. Mutti, S. Francis-Meretzki, E. Shafer, and A. Tamar
   link:
-    url:
+    url: https://arxiv.org/abs/2510.24194
     display: "Advances in Neural Information Processing Systems (NeurIPS), 2025"
   highlight: 1
   news1: "Best robotics paper award at ICML ExAIT Workshop"
@@ -33,8 +33,8 @@
   description:
   authors: S. Mannor, Y. Mansour, and A. Tamar
   link:
-    url:
-    display: "Cambridge University Press, in preparation"
+    url: https://sites.google.com/view/rlfoundations/home
+    display: "Cambridge University Press, forthcoming Summer 2026"
   highlight: 0
   news1:
   journal: 1
@@ -48,7 +48,7 @@
   description:
   authors: M. Mutti, J. Kwon, S. Mannor, and A. Tamar
   link:
-    url:
+    url: https://arxiv.org/abs/2504.04505
     display: "International Conference on Machine Learning (ICML), 2025"
   highlight: 0
   news1:
@@ -63,7 +63,7 @@
   description:
   authors: C. Qi, D. Haramati, T. Daniel, A. Tamar, and A. Zhang
   link:
-    url:
+    url: https://arxiv.org/abs/2412.18907
     display: "International Conference on Learning Representations (ICLR), 2025"
   highlight: 0
   news1:
@@ -78,7 +78,7 @@
   description:
   authors: S. Tubul, A. Tamar, K. Solovey, and O. Salzman
   link:
-    url:
+    url: https://arxiv.org/abs/2502.04170
     display: "IEEE International Conference on Robotics and Automation (ICRA), 2025"
   highlight: 0
   news1:
@@ -94,7 +94,7 @@
   description: 
   authors: N. Greshler, D. Ben Eli, C. Rabinovitz, L. Gispan, G. Guetta, G. Zohar, and A. Tamar
   link:
-    url: 
+    url: https://arxiv.org/abs/2406.02103
     display: "International Conference on Machine Learning (ICML), 2024"
   highlight: 0
   news1: 
@@ -109,7 +109,7 @@
   description: 
   authors: M. Mutti and A. Tamar
   link:
-    url: 
+    url: https://arxiv.org/abs/2406.02282
     display: "International Conference on Machine Learning (ICML), 2024"
   highlight: 0
   news1: 
