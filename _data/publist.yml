@@ -1,6 +1,6 @@
 - title: "Blindfolded Experts Generalize Better: Insights from Robotic Manipulation and Videogames"
-  image:
-  description:
+  image: blindfold.png
+  description: A surprising method to improve generalization in imitation learning by reducing information from the demonstrator
   authors: E. Zisselman, M. Mutti, S. Francis-Meretzki, E. Shafer, and A. Tamar
   link:
     url:
@@ -14,11 +14,11 @@
   news2:
 
 - title: "Toward Artificial Palpation: Representation Learning of Touch on Soft Bodies"
-  image:
-  description:
+  image: touch.png
+  description: First method that learns how soft objects feel, and can image their internal structure 
   authors: Z. Rimon, E. Shafer, T. Tepper, E. Shimron, and A. Tamar
   link:
-    url:
+    url: https://zoharri.github.io/artificial-palpation/
     display: "Advances in Neural Information Processing Systems (NeurIPS), 2025"
   highlight: 1
   news1:
@@ -212,8 +212,8 @@
   news2: 
 
 - title: "DDLP: Unsupervised Object-Centric Video Prediction with Deep Dynamic Latent Particles"
-  image: 
-  description: 
+  image: ddlp.png
+  description: An object-centric video prediction model that can account for complex interactions between objects
   authors: T. Daniel and A. Tamar
   link:
     url: https://arxiv.org/abs/2306.05957
