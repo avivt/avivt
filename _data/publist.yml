@@ -1,3 +1,94 @@
+- title: "Blindfolded Experts Generalize Better: Insights from Robotic Manipulation and Videogames"
+  image:
+  description:
+  authors: E. Zisselman, M. Mutti, S. Francis-Meretzki, E. Shafer, and A. Tamar
+  link:
+    url:
+    display: "Advances in Neural Information Processing Systems (NeurIPS), 2025"
+  highlight: 0
+  news1: "Best robotics paper award at ICML ExAIT Workshop"
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2:
+
+- title: "Toward Artificial Palpation: Representation Learning of Touch on Soft Bodies"
+  image:
+  description:
+  authors: Z. Rimon, E. Shafer, T. Tepper, E. Shimron, and A. Tamar
+  link:
+    url:
+    display: "Advances in Neural Information Processing Systems (NeurIPS), 2025"
+  highlight: 0
+  news1:
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2:
+
+- title: "Reinforcement Learning: Foundations"
+  image:
+  description:
+  authors: S. Mannor, Y. Mansour, and A. Tamar
+  link:
+    url:
+    display: "Cambridge University Press, in preparation"
+  highlight: 0
+  news1:
+  journal: 1
+  conference: 0
+  workshop: 0
+  preprint: 0
+  news2:
+
+- title: "A Classification View on Meta Learning Bandits"
+  image:
+  description:
+  authors: M. Mutti, J. Kwon, S. Mannor, and A. Tamar
+  link:
+    url:
+    display: "International Conference on Machine Learning (ICML), 2025"
+  highlight: 0
+  news1:
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2:
+
+- title: "EC-Diffuser: Multi-Object Manipulation via Entity-Centric Behavior Generation"
+  image:
+  description:
+  authors: C. Qi, D. Haramati, T. Daniel, A. Tamar, and A. Zhang
+  link:
+    url:
+    display: "International Conference on Learning Representations (ICLR), 2025"
+  highlight: 0
+  news1:
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2:
+
+- title: "From Configuration-Space Clearance to Feature-Space Margin: Sample Complexity in Learning-Based Collision Detection"
+  image:
+  description:
+  authors: S. Tubul, A. Tamar, K. Solovey, and O. Salzman
+  link:
+    url:
+    display: "IEEE International Conference on Robotics and Automation (ICRA), 2025"
+  highlight: 0
+  news1:
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2:
+
+
 - title: "A Bayesian Approach to Online Planning"
   image: 
   description: 
