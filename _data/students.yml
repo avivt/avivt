@@ -8,17 +8,17 @@
 #  education3:
 #  education4:
 
-# - name: Idan Shenfeld
-#   photo: tbd.jpg
-#   info: Ugrad student
-#   email: 
-#   number_educ: 0
-#   education1:
+- name: Daniel Kozin
+  photo: tbd.jpg
+  info: Ugrad student
+  email: 
+  number_educ: 0
+  education1:
 
-# - name: Idan Shenfeld
-#   photo: idansh.jpg
-#   info: Ugrad student
-#   email: idanshen@campus.technion.ac.il
-#   webpage: 
-#   number_educ: 0
-#   education1: 
+- name: Alon Malka
+  photo: tbd.jpg
+  info: Ugrad student
+  email: 
+  webpage: 
+  number_educ: 0
+  education1: 
