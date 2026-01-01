@@ -33,8 +33,8 @@
 - name: Ev Zisselman
   photo: Ev.jpg
   info: PhD student
-  email: 
-  webpage: 
+  email: ev_zis@campus.technion.ac.il
+  webpage: https://github.com/EvZissel
   number_educ: 0
   education1: 
 
@@ -57,7 +57,7 @@
 - name: Zohar Rimon
   photo: ZoharRimon.jpeg
   info: PhD student
-  email: 
+  email: zohar.rimon@campus.technion.ac.il
   webpage: https://zoharri.github.io/
   number_educ: 0
   education1:
