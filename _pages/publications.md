@@ -66,7 +66,7 @@ permalink: /publications/
 {% endif %}
 {% endfor %}
 
-## Journal Papers
+## Journal Papers / Books
 
 {% for publi in site.data.publist %}
 {% if publi.journal == 1 %}
