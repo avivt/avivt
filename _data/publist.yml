@@ -5,7 +5,7 @@
   link:
     url:
     display: "Advances in Neural Information Processing Systems (NeurIPS), 2025"
-  highlight: 0
+  highlight: 1
   news1: "Best robotics paper award at ICML ExAIT Workshop"
   journal: 0
   conference: 1
@@ -20,7 +20,7 @@
   link:
     url:
     display: "Advances in Neural Information Processing Systems (NeurIPS), 2025"
-  highlight: 0
+  highlight: 1
   news1:
   journal: 0
   conference: 1
@@ -218,7 +218,7 @@
   link:
     url: https://arxiv.org/abs/2306.05957
     display: "Transactions on Machine Learning Research (TMLR), 2024"
-  highlight: 0
+  highlight: 1
   news1: 
   journal: 1
   conference: 0
@@ -458,7 +458,7 @@
   link:
     url: https://arxiv.org/abs/2012.13253
     display:  "Computer Vision and Pattern Recognition (CVPR), 2021"
-  highlight: 1
+  highlight: 0
   news1: Oral
   journal: 0
   conference: 1
@@ -578,7 +578,7 @@
   link:
     url: 
     display:  "Robotics: Science and Systems (RSS), 2019"
-  highlight: 1
+  highlight: 0
   news1: 
   journal: 0
   conference: 1
@@ -593,7 +593,7 @@
   link:
     url: https://arxiv.org/abs/1905.04411
     display:  "Robotics: Science and Systems (RSS), 2019"
-  highlight: 1
+  highlight: 0
   news1: 
   journal: 0
   conference: 1
@@ -758,7 +758,7 @@
   link:
     url: http://papers.nips.cc/paper/8090-learning-plannable-representations-with-causal-infogan
     display:  Advances in Neural Information Processing Systems (NeurIPS), 2018.
-  highlight: 1
+  highlight: 0
   news1: 
   journal: 0
   conference: 1
@@ -788,7 +788,7 @@
   link:
     url: https://ieeexplore.ieee.org/abstract/document/8460696
     display:  IEEE International Conference on Robotics and Automation (ICRA), 2018.
-  highlight: 1
+  highlight: 0
   news1: Automation award track
   journal: 0
   conference: 1
@@ -1014,7 +1014,7 @@
   link:
     url: https://arxiv.org/abs/1404.3862
     display:  AAAI, pages 2993--2999, 2015.
-  highlight: 1
+  highlight: 0
   news1: 
   journal: 0
   conference: 1
