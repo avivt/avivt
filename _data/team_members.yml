@@ -14,13 +14,21 @@
   number_educ: 0
   education1: 
 
-- name: Orr Krupnik
-  photo: OrrKrupnik.JPG
-  info: PhD student
+- name: Tal Tepper
+  photo: 
+  info: Research scientist
   email: 
-  webpage: https://www.orrkrup.com/
+  webpage: 
   number_educ: 0
   education1: 
+
+# - name: Orr Krupnik
+#   photo: OrrKrupnik.JPG
+#   info: PhD student
+#   email: 
+#   webpage: https://www.orrkrup.com/
+#   number_educ: 0
+#   education1: 
 
 - name: Ev Zisselman
   photo: Ev.jpg
@@ -30,13 +38,13 @@
   number_educ: 0
   education1: 
 
-- name: Tal Daniel
-  photo: TalDanielProfile.jpg
-  info: PhD student
-  email: taldanielm@campus.technion.ac.il
-  webpage: https://taldatech.github.io/
-  number_educ: 0
-  education1: 
+# - name: Tal Daniel
+#   photo: TalDanielProfile.jpg
+#   info: PhD student
+#   email: taldanielm@campus.technion.ac.il
+#   webpage: https://taldatech.github.io/
+#   number_educ: 0
+#   education1: 
 
 - name: Roi Bar Zur
   photo: roi.jpg
@@ -54,21 +62,21 @@
   number_educ: 0
   education1:
 
-- name: Meital Bojan
-  photo: meital.jpeg
-  info: MSc student
-  email: 
-  webpage:
-  number_educ: 0
-  education1:
+# - name: Meital Bojan
+#   photo: meital.jpeg
+#   info: MSc student
+#   email: 
+#   webpage:
+#   number_educ: 0
+#   education1:
 
-- name: Dan Haramati
-  photo: Dan_Headshot.jpg
-  info: MSc student
-  email: 
-  webpage: https://danhrmti.github.io/
-  number_educ: 0
-  education1:
+# - name: Dan Haramati
+#   photo: Dan_Headshot.jpg
+#   info: MSc student
+#   email: 
+#   webpage: https://danhrmti.github.io/
+#   number_educ: 0
+#   education1:
 
 - name: Adi Levy
   photo: adi_headshot.jpg
