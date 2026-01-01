@@ -8,7 +8,7 @@
 
 - name: Era Choshen
   photo: EraChoshen.jpg
-  duration: MSc 2021-2023, now at Bosch AI
+  duration: MSc 2021-2023, now at MobilEye
   email: 
   webpage:
   number_educ: 0
@@ -16,7 +16,7 @@
 
 - name: Tom Jurgenson
   photo: tomj.jpg
-  duration: PhD 2018-2023, now at Bosch AI
+  duration: PhD 2018-2023, now at MSFT
   email: tomjur@campus.technion.ac.il
   webpage: https://tomjur.github.io/
   number_educ: 0
@@ -48,7 +48,7 @@
 
 - name: Ron Dorfman
   photo: tbd.jpg
-  duration: MSc 2019-2020, now PhD student at Technion
+  duration: MSc 2019-2020, -> PhD at Technion -> Amazon
   info: 
   email: 
   number_educ: 0
@@ -73,6 +73,38 @@
 - name: Idan Shenfeld
   photo: tbd.jpg
   duration: Ugrad 2021, now PhD student at MIT
+  info: 
+  email: 
+  number_educ: 0
+  education1: 
+
+- name: Orr Krupnik
+  photo: tbd.jpg
+  duration: Direct PhD 2019-2025, now at 
+  info: 
+  email: 
+  number_educ: 0
+  education1: 
+
+- name: Tal Daniel
+  photo: tbd.jpg
+  duration: MSc + PhD 2019-2024, now postdoc at CMU 
+  info: 
+  email: 
+  number_educ: 0
+  education1: 
+  
+- name: Dan Haramati
+  photo: tbd.jpg
+  duration: MSc 2022-2024, now PhD student at Brown
+  info: 
+  email: 
+  number_educ: 0
+  education1: 
+
+- name: Meital Bojan
+  photo: tbd.jpg
+  duration: MSc 2023-2025, now PhD student at IST Austria
   info: 
   email: 
   number_educ: 0
