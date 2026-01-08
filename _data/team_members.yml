@@ -30,6 +30,14 @@
 #   number_educ: 0
 #   education1: 
 
+- name: Mirco Mutti
+  photo: mirco_photo.jpg
+  info: Postdoc
+  email: mirco.m@technion.ac.il
+  webpage: https://muttimirco.github.io/
+  number_educ: 0
+  education1: 
+
 - name: Ev Zisselman
   photo: Ev.jpg
   info: PhD student
