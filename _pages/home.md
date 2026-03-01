@@ -23,8 +23,15 @@ To learn more:
 <br>
 <!-- Previously, I was a postdoc in the Berkeley AI Research Lab (BAIR) at UC Berkeley, with Prof. Pieter Abbeel. I completed my PhD. at the Technion, supervised by Prof. Shie Mannor, and my MSc also at Technion, under the supervision of Prof. Ron Meir. -->
 
+<div id="twitter-feed" style="max-width: 600px;">
+  <a class="twitter-timeline"
+     data-height="800"
+     href="https://twitter.com/AvivTamarLab">
+    Tweets by AvivTamarLab
+  </a>
+</div>
 
-<a class="twitter-timeline" data-height="800" href="https://twitter.com/AvivTamarLab?ref_src=twsrc%5Etfw">Tweets by AvivTamarLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- <a class="twitter-timeline" data-height="800" href="https://twitter.com/AvivTamarLab?ref_src=twsrc%5Etfw">Tweets by AvivTamarLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 <!-- <a class="twitter-timeline" data-width="500" data-height="600" href="https://twitter.com/AvivTamarLab?ref_src=twsrc%5Etfw">Tweets by AvivTamarLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
  -->
