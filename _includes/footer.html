@@ -30,12 +30,13 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <script>
-  // Re-run Twitter widget rendering after the page is fully laid out
-  window.addEventListener('load', function () {
+  function loadTwitter() {
     if (window.twttr && twttr.widgets && twttr.widgets.load) {
       twttr.widgets.load();
     }
-  });
+  }
+  window.addEventListener('load', loadTwitter);
+  setTimeout(loadTwitter, 1000);   // helps when Bootstrap layout settles late
+  setTimeout(loadTwitter, 3000);   // extra safety
 </script>
