@@ -1,3 +1,48 @@
+- title: "Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling"
+  image:
+  description:
+  authors: T. Daniel, C. Qi, D. Haramati, A. Zadeh, C. Li, A. Tamar, D. Pathak, and D. Held
+  link:
+    url:
+    display: "International Conference on Learning Representations (ICLR), 2026"
+  highlight: 0
+  news1: "Oral presentation"
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2:
+
+- title: "Probing in the Dark: State Entropy Maximization for POMDPs"
+  image:
+  description:
+  authors: Y. Ashlag, M. Mutti, A. Tamar, and K. Yehuda Levy
+  link:
+    url:
+    display: "International Conference on Learning Representations (ICLR), 2026"
+  highlight: 0
+  news1:
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2:
+
+- title: "Hierarchical Entity-centric Reinforcement Learning with Factored Subgoal Diffusion"
+  image:
+  description:
+  authors: D. Haramati, C. Qi, T. Daniel, A. Zhang, A. Tamar, and G. Konidaris
+  link:
+    url:
+    display: "International Conference on Learning Representations (ICLR), 2026"
+  highlight: 0
+  news1:
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2:
+
 - title: "Blindfolded Experts Generalize Better: Insights from Robotic Manipulation and Videogames"
   image: blindfold.png
   description: A surprising method to improve generalization in imitation learning by reducing information from the demonstrator
