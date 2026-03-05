@@ -1,3 +1,11 @@
+- name: Roi Bar Zur
+  photo: roi.jpg
+  duration: PhD 2020-2025 (primary Ittay Eyal)
+  email: roi.bar-zur@campus.technion.ac.il
+  webpage: https://roibarzur.github.io/
+  number_educ: 0
+  education1:
+
 - name: Gal Avineri
   photo: gal.png
   duration: MSc student 2022-2024
