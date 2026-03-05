@@ -54,13 +54,13 @@
 #   number_educ: 0
 #   education1: 
 
-- name: Roi Bar Zur
-  photo: roi.jpg
-  info: PhD student (main supervisor Ittay Eyal)
-  email: roi.bar-zur@campus.technion.ac.il
-  webpage: https://roibarzur.github.io/
-  number_educ: 0
-  education1: 
+# - name: Roi Bar Zur
+#   photo: roi.jpg
+#   info: PhD student (main supervisor Ittay Eyal)
+#   email: roi.bar-zur@campus.technion.ac.il
+#   webpage: https://roibarzur.github.io/
+#   number_educ: 0
+#   education1: 
 
 - name: Zohar Rimon
   photo: ZoharRimon.jpeg
