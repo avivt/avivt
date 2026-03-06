@@ -6,6 +6,22 @@
   number_educ: 0
   education1: 
 
+- name: Daniel Kozin
+  photo: bio-photo.jpg
+  info: Undergraduate intern
+  email:
+  webpage:
+  number_educ: 0
+  education1:
+
+- name: Alon Malka
+  photo: bio-photo.jpg
+  info: Undergraduate intern
+  email:
+  webpage:
+  number_educ: 0
+  education1:
+
 - name: Eli Shafer
   photo: Eli_Shafer.jpg
   info: Lab engineer
