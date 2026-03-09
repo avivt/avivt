@@ -1,1218 +1,1183 @@
-- title: "MAD-DAG: Protecting Blockchain Consensus from MEV"
-  image:
-  description:
+- title: 'MAD-DAG: Protecting Blockchain Consensus from MEV'
+  image: null
+  description: null
   authors: R. Bar-Zur, A. Tamar, and I. Eyal
   link:
-    url: https://arxiv.org/abs/2511.21552
-    display: "arXiv preprint arXiv:2511.21552, 2025"
+    url: https://cycle2.sp2026.ieee-security.org/730
+    display: IEEE S&P, 2026
   highlight: 0
-  news1:
+  news1: null
   journal: 0
-  conference: 0
+  conference: 1
   workshop: 0
-  preprint: 1
-  news2:
-
-- title: "Learning to Flow (Between Datacenters)"
-  image:
-  description:
+  preprint: 0
+  news2: null
+- title: Learning to Flow (Between Datacenters)
+  image: null
+  description: null
   authors: Y. Perry, S. Kandula, I. Menache, M. Schapira, and A. Tamar
   link:
     url: https://doi.org/10.1145/3765706
-    display: "Communications of the ACM, 2026"
+    display: Communications of the ACM, 2026
   highlight: 0
-  news1:
+  news1: null
   journal: 1
   conference: 0
   workshop: 0
   preprint: 0
-  news2:
-
-- title: "Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling"
-  image:
-  description:
-  authors: T. Daniel, C. Qi, D. Haramati, A. Zadeh, C. Li, A. Tamar, D. Pathak, and D. Held
+  news2: null
+- title: 'Latent Particle World Models: Self-supervised Object-centric Stochastic
+    Dynamics Modeling'
+  image: null
+  description: null
+  authors: T. Daniel, C. Qi, D. Haramati, A. Zadeh, C. Li, A. Tamar, D. Pathak, and
+    D. Held
   link:
-    url:
-    display: "International Conference on Learning Representations (ICLR), 2026"
+    url: null
+    display: International Conference on Learning Representations (ICLR), 2026
   highlight: 0
-  news1: "Oral presentation"
+  news1: Oral presentation
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2:
-
-- title: "Probing in the Dark: State Entropy Maximization for POMDPs"
-  image:
-  description:
+  news2: null
+- title: 'Probing in the Dark: State Entropy Maximization for POMDPs'
+  image: null
+  description: null
   authors: Y. Ashlag, M. Mutti, A. Tamar, and K. Yehuda Levy
   link:
-    url:
-    display: "International Conference on Learning Representations (ICLR), 2026"
+    url: null
+    display: International Conference on Learning Representations (ICLR), 2026
   highlight: 0
-  news1:
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2:
-
-- title: "Hierarchical Entity-centric Reinforcement Learning with Factored Subgoal Diffusion"
-  image:
-  description:
+  news2: null
+- title: Hierarchical Entity-centric Reinforcement Learning with Factored Subgoal
+    Diffusion
+  image: null
+  description: null
   authors: D. Haramati, C. Qi, T. Daniel, A. Zhang, A. Tamar, and G. Konidaris
   link:
-    url:
-    display: "International Conference on Learning Representations (ICLR), 2026"
+    url: null
+    display: International Conference on Learning Representations (ICLR), 2026
   highlight: 0
-  news1:
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2:
-
-- title: "Blindfolded Experts Generalize Better: Insights from Robotic Manipulation and Videogames"
+  news2: null
+- title: 'Blindfolded Experts Generalize Better: Insights from Robotic Manipulation
+    and Videogames'
   image: blindfold.png
-  description: A surprising method to improve generalization in imitation learning by reducing information from the demonstrator
+  description: A surprising method to improve generalization in imitation learning
+    by reducing information from the demonstrator
   authors: E. Zisselman, M. Mutti, S. Francis-Meretzki, E. Shafer, and A. Tamar
   link:
     url: https://arxiv.org/abs/2510.24194
-    display: "Advances in Neural Information Processing Systems (NeurIPS), 2025"
+    display: Advances in Neural Information Processing Systems (NeurIPS), 2025
   highlight: 1
-  news1: "Best robotics paper award at ICML ExAIT Workshop"
+  news1: Best robotics paper award at ICML ExAIT Workshop
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2:
-
-- title: "Toward Artificial Palpation: Representation Learning of Touch on Soft Bodies"
+  news2: null
+- title: 'Toward Artificial Palpation: Representation Learning of Touch on Soft Bodies'
   image: touch.png
-  description: First method that learns how soft objects feel, and can image their internal structure 
+  description: First method that learns how soft objects feel, and can image their
+    internal structure
   authors: Z. Rimon, E. Shafer, T. Tepper, E. Shimron, and A. Tamar
   link:
     url: https://zoharri.github.io/artificial-palpation/
-    display: "Advances in Neural Information Processing Systems (NeurIPS), 2025"
+    display: Advances in Neural Information Processing Systems (NeurIPS), 2025
   highlight: 1
-  news1:
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2:
-
-- title: "Reinforcement Learning: Foundations"
-  image:
-  description:
+  news2: null
+- title: 'Reinforcement Learning: Foundations'
+  image: null
+  description: null
   authors: S. Mannor, Y. Mansour, and A. Tamar
   link:
     url: https://sites.google.com/view/rlfoundations/home
-    display: "Cambridge University Press, forthcoming Summer 2026"
+    display: Cambridge University Press, forthcoming Summer 2026
   highlight: 0
-  news1:
+  news1: null
   journal: 1
   conference: 0
   workshop: 0
   preprint: 0
-  news2:
-
-- title: "A Classification View on Meta Learning Bandits"
-  image:
-  description:
+  news2: null
+- title: A Classification View on Meta Learning Bandits
+  image: null
+  description: null
   authors: M. Mutti, J. Kwon, S. Mannor, and A. Tamar
   link:
     url: https://arxiv.org/abs/2504.04505
-    display: "International Conference on Machine Learning (ICML), 2025"
+    display: International Conference on Machine Learning (ICML), 2025
   highlight: 0
-  news1:
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2:
-
-- title: "EC-Diffuser: Multi-Object Manipulation via Entity-Centric Behavior Generation"
-  image:
-  description:
+  news2: null
+- title: 'EC-Diffuser: Multi-Object Manipulation via Entity-Centric Behavior Generation'
+  image: null
+  description: null
   authors: C. Qi, D. Haramati, T. Daniel, A. Tamar, and A. Zhang
   link:
     url: https://arxiv.org/abs/2412.18907
-    display: "International Conference on Learning Representations (ICLR), 2025"
+    display: International Conference on Learning Representations (ICLR), 2025
   highlight: 0
-  news1:
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2:
-
-- title: "From Configuration-Space Clearance to Feature-Space Margin: Sample Complexity in Learning-Based Collision Detection"
-  image:
-  description:
+  news2: null
+- title: 'From Configuration-Space Clearance to Feature-Space Margin: Sample Complexity
+    in Learning-Based Collision Detection'
+  image: null
+  description: null
   authors: S. Tubul, A. Tamar, K. Solovey, and O. Salzman
   link:
     url: https://arxiv.org/abs/2502.04170
-    display: "IEEE International Conference on Robotics and Automation (ICRA), 2025"
+    display: IEEE International Conference on Robotics and Automation (ICRA), 2025
   highlight: 0
-  news1:
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2:
-
-
-- title: "A Bayesian Approach to Online Planning"
-  image: 
-  description: 
-  authors: N. Greshler, D. Ben Eli, C. Rabinovitz, L. Gispan, G. Guetta, G. Zohar, and A. Tamar
+  news2: null
+- title: A Bayesian Approach to Online Planning
+  image: null
+  description: null
+  authors: N. Greshler, D. Ben Eli, C. Rabinovitz, L. Gispan, G. Guetta, G. Zohar,
+    and A. Tamar
   link:
     url: https://arxiv.org/abs/2406.02103
-    display: "International Conference on Machine Learning (ICML), 2024"
+    display: International Conference on Machine Learning (ICML), 2024
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Test-Time Regret Minimization in Meta Reinforcement Learning"
-  image: 
-  description: 
+  news2: null
+- title: Test-Time Regret Minimization in Meta Reinforcement Learning
+  image: null
+  description: null
   authors: M. Mutti and A. Tamar
   link:
     url: https://arxiv.org/abs/2406.02282
-    display: "International Conference on Machine Learning (ICML), 2024"
+    display: International Conference on Machine Learning (ICML), 2024
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-
-- title: "MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning"
-  image: 
-  description: 
+  news2: null
+- title: 'MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning'
+  image: null
+  description: null
   authors: Z. Rimon, T. Jurgenson, O. Krupnik, G. Adler, and A. Tamar
   link:
     url: https://openreview.net/forum?id=1RE0H6mU7M
-    display: "International Conference on Learning Representations (ICLR), 2024"
+    display: International Conference on Learning Representations (ICLR), 2024
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Entity-Centric Reinforcement Learning for Object Manipulation from Pixels"
-  image: 
-  description: 
+  news2: null
+- title: Entity-Centric Reinforcement Learning for Object Manipulation from Pixels
+  image: null
+  description: null
   authors: D. Haramati, T. Daniel, and A. Tamar
   link:
     url: https://openreview.net/forum?id=uDxeSZ1wdI
-    display: "International Conference on Learning Representations (ICLR), 2024"
+    display: International Conference on Learning Representations (ICLR), 2024
   highlight: 0
   news1: Spotlight
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-
-- title: "Towards Deployable RL--What's Broken with RL Research and a Potential Fix"
-  image: 
-  description: 
+  news2: null
+- title: Towards Deployable RL--What's Broken with RL Research and a Potential Fix
+  image: null
+  description: null
   authors: S. Mannor and A. Tamar
   link:
     url: https://arxiv.org/abs/2301.01320
-    display: "arXiv preprint arXiv:2301.01320, 2023"
+    display: arXiv preprint arXiv:2301.01320, 2023
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 0
   workshop: 0
   preprint: 1
-  news2: 
-
-- title: "Deep Bribe: Predicting the Rise of Bribery in Blockchain Mining with Deep RL"
-  image: 
-  description: 
+  news2: null
+- title: 'Deep Bribe: Predicting the Rise of Bribery in Blockchain Mining with Deep
+    RL'
+  image: null
+  description: null
   authors: R. Bar-Zur, D. Dori, S. Vardi, I. Eyal, and A. Tamar
   link:
     url: https://eprint.iacr.org/2023/472
-    display: "Deep Learning S&P Workshop 2023 (co-located with IEEE S&P)"
+    display: Deep Learning S&P Workshop 2023 (co-located with IEEE S&P)
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Goal-Conditioned Supervised Learning with Sub-Goal Prediction"
-  image: 
-  description: 
+  news2: null
+- title: Goal-Conditioned Supervised Learning with Sub-Goal Prediction
+  image: null
+  description: null
   authors: T. Jurgenson and A. Tamar
   link:
     url: https://arxiv.org/abs/2305.10171
-    display: "arXiv preprint arXiv:2305.10171, 2023"
+    display: arXiv preprint arXiv:2305.10171, 2023
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 0
   workshop: 0
   preprint: 1
-  news2: 
-
-- title: "Explore to Generalize in Zero-Shot RL"
-  image: 
-  description: 
+  news2: null
+- title: Explore to Generalize in Zero-Shot RL
+  image: null
+  description: null
   authors: E. Zisselman, I. Lavie, D. Soudry, and A. Tamar
   link:
     url: https://arxiv.org/abs/2306.03072
-    display: "Advances in Neural Information Processing Systems (NeurIPS), 2023"
+    display: Advances in Neural Information Processing Systems (NeurIPS), 2023
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "DDLP: Unsupervised Object-Centric Video Prediction with Deep Dynamic Latent Particles"
+  news2: null
+- title: 'DDLP: Unsupervised Object-Centric Video Prediction with Deep Dynamic Latent
+    Particles'
   image: ddlp.png
-  description: An object-centric video prediction model that can account for complex interactions between objects
+  description: An object-centric video prediction model that can account for complex
+    interactions between objects
   authors: T. Daniel and A. Tamar
   link:
     url: https://arxiv.org/abs/2306.05957
-    display: "Transactions on Machine Learning Research (TMLR), 2024"
+    display: Transactions on Machine Learning Research (TMLR), 2024
   highlight: 1
-  news1: 
+  news1: null
   journal: 1
   conference: 0
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Hierarchical Planning for Rope Manipulation using Knot Theory and a Learned Inverse Model"
-  image: 
-  description: 
+  news2: null
+- title: Hierarchical Planning for Rope Manipulation using Knot Theory and a Learned
+    Inverse Model
+  image: null
+  description: null
   authors: M. Sudry, T. Jurgenson, A. Tamar, and E. Karpas
   link:
     url: https://openreview.net/forum?id=g_PPHV_GkX
-    display: "Conference on Robot Learning (CoRL), 2023, pages 1596-1609"
+    display: Conference on Robot Learning (CoRL), 2023, pages 1596-1609
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Fine-Tuning Generative Models as an Inference Method for Robotic Tasks"
-  image: 
+  news2: null
+- title: Fine-Tuning Generative Models as an Inference Method for Robotic Tasks
+  image: null
   description: https://openreview.net/forum?id=yGkqN4hqrJ
   authors: O. Krupnik, E. Shafer, T. Jurgenson, and A. Tamar
   link:
-    url: 
-    display: "Conference on Robot Learning (CoRL), 2023, pages 866-886"
+    url: null
+    display: Conference on Robot Learning (CoRL), 2023, pages 866-886
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Revealing principles of autonomous thermal soaring in windy conditions using vulture-inspired deep reinforcement-learning"
-  image: 
-  description: 
+  news2: null
+- title: Revealing principles of autonomous thermal soaring in windy conditions using
+    vulture-inspired deep reinforcement-learning
+  image: null
+  description: null
   authors: Y. Flato, R. Harel, A. Tamar, R. Nathan, and T. Beatus
   link:
     url: https://www.biorxiv.org/content/10.1101/2023.09.18.558216v1.full
-    display: "Nature Communications, 2024"
+    display: Nature Communications, 2024
   highlight: 0
-  news1: 
+  news1: null
   journal: 1
   conference: 0
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "ContraBAR: Contrastive Bayes-Adaptive Deep RL"
-  image:
-  description:
+  news2: null
+- title: 'ContraBAR: Contrastive Bayes-Adaptive Deep RL'
+  image: null
+  description: null
   authors: E. Choshen and A. Tamar
   link:
-    url: 
-    display: "International Conference on Machine Learning (ICML), 2023."
+    url: null
+    display: International Conference on Machine Learning (ICML), 2023.
   highlight: 0
-  news1:
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2:
-
-- title: "Learning Control by Iterative Inversion"
+  news2: null
+- title: Learning Control by Iterative Inversion
   image: itin.jpeg
-  description: Train large models to control diverse behaviors using a new learning approach
+  description: Train large models to control diverse behaviors using a new learning
+    approach
   authors: G. Leibovich, G. Jacob, O. Avner, G. Novik, and A. Tamar
   link:
     url: https://arxiv.org/abs/2211.01724
-    display: "International Conference on Machine Learning (ICML), 2023"
+    display: International Conference on Machine Learning (ICML), 2023
   highlight: 1
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2:
-
-- title: "TGRL: Teacher Guided Reinforcement Learning Algorithm for POMDPs"
-  image:
-  description:
+  news2: null
+- title: 'TGRL: Teacher Guided Reinforcement Learning Algorithm for POMDPs'
+  image: null
+  description: null
   authors: I. Shenfeld, Z.-W. Hong, A. Tamar, and P. Agrawal
   link:
-    url: 
-    display: "International Conference on Machine Learning (ICML), 2023."
+    url: null
+    display: International Conference on Machine Learning (ICML), 2023.
   highlight: 0
-  news1:
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2:
-
-- title: "Online Tool Selection with Learned Grasp Prediction Models"
-  image:
-  description:
+  news2: null
+- title: Online Tool Selection with Learned Grasp Prediction Models
+  image: null
+  description: null
   authors: K. Rohanimanesh, J. Metzger, W. Richards, and A. Tamar
   link:
     url: https://arxiv.org/abs/2302.07940
-    display: "IEEE International Conference on Robotics and Automation (ICRA), 2023."
+    display: IEEE International Conference on Robotics and Automation (ICRA), 2023.
   highlight: 0
-  news1:
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2:
-
-- title: "DOTE: Rethinking WAN Traffic Engineering"
-  image:
-  description:
-  authors: Y. Perry, F. Frujeri, C. Hoch, S. Kandula, I. Menache, M. Schapira, and A. Tamar
+  news2: null
+- title: 'DOTE: Rethinking WAN Traffic Engineering'
+  image: null
+  description: null
+  authors: Y. Perry, F. Frujeri, C. Hoch, S. Kandula, I. Menache, M. Schapira, and
+    A. Tamar
   link:
     url: https://www.usenix.org/conference/nsdi23/presentation/perry
-    display: "USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2023."
+    display: USENIX Symposium on Networked Systems Design and Implementation (NSDI),
+      2023.
   highlight: 0
-  news1: "Best paper award"
+  news1: Best paper award
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2:
-
-- title: "Meta Reinforcement Learning with Finite Training Tasks-a Density Estimation Approach"
-  image: 
-  description: 
+  news2: null
+- title: Meta Reinforcement Learning with Finite Training Tasks-a Density Estimation
+    Approach
+  image: null
+  description: null
   authors: Z. Rimon, A. Tamar, and G. Adler.
   link:
     url: https://arxiv.org/abs/2206.10716
-    display: "Advances in Neural Information Processing Systems (NeurIPS), 2022."
+    display: Advances in Neural Information Processing Systems (NeurIPS), 2022.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2:
-
-- title: "Unsupervised Image Representation Learning with Deep Latent Particles"
-  image: 
-  description: 
+  news2: null
+- title: Unsupervised Image Representation Learning with Deep Latent Particles
+  image: null
+  description: null
   authors: T. Daniel and A. Tamar.
   link:
     url: https://arxiv.org/abs/2205.15821
-    display: "International Conference on Machine Learning (ICML), 2022"
+    display: International Conference on Machine Learning (ICML), 2022
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2:
-
-- title: "WeRLman: To Tackle Whale (Transactions), Go Deep (RL)"
-  image: 
-  description: 
+  news2: null
+- title: 'WeRLman: To Tackle Whale (Transactions), Go Deep (RL)'
+  image: null
+  description: null
   authors: R. Bar-Zur, A. Abu-Hanna, I. Eyal, and A. Tamar.
   link:
     url: https://eprint.iacr.org/2022/175.pdf
-    display: "IEEE Symposium on Security and Privacy (IEEE S&P 2023)"
+    display: IEEE Symposium on Security and Privacy (IEEE S&P 2023)
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2:
-
-- title: "Validate on Sim, Detect on Real -- Model Selection for Domain Randomization"
-  image: 
-  description: 
+  news2: null
+- title: Validate on Sim, Detect on Real -- Model Selection for Domain Randomization
+  image: null
+  description: null
   authors: G. Leibovich, G. Jacob, S. Endrawis, G. Novik, and A. Tamar.
   link:
     url: https://arxiv.org/abs/2111.00765
-    display: "International Conference on Robotics and Automation (ICRA), 2022."
+    display: International Conference on Robotics and Automation (ICRA), 2022.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2:
-
-- title: "Regularization Guarantees Generalization in Bayesian Reinforcement Learning through Algorithmic Stability"
+  news2: null
+- title: Regularization Guarantees Generalization in Bayesian Reinforcement Learning
+    through Algorithmic Stability
   image: reg_mdp.png
-  description: We develop PAC bounds for Bayesian RL (meta-RL). A key underlying result is showing algorithmic stability for regularized MDPs.
+  description: We develop PAC bounds for Bayesian RL (meta-RL). A key underlying result
+    is showing algorithmic stability for regularized MDPs.
   authors: A. Tamar, D. Soudry, E. Zisselman.
   link:
     url: https://arxiv.org/abs/2109.11792
-    display:  "AAAI, 2022."
+    display: AAAI, 2022.
   highlight: 1
   news1: Oral
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Unsupervised Feature Learning for Manipulation with Contrastive Domain Randomization"
+  news2: null
+- title: Unsupervised Feature Learning for Manipulation with Contrastive Domain Randomization
   image: cdr.png
-  description: "Randomly play with objects in simulation, and learn features that transfer to real world manipulation"
+  description: Randomly play with objects in simulation, and learn features that transfer
+    to real world manipulation
   authors: C. Rabinovitz, N. Grupen, and A. Tamar.
   link:
     url: https://arxiv.org/abs/2103.11144
-    display:  "International Conference on Robotics and Automation (ICRA), 2021."
+    display: International Conference on Robotics and Automation (ICRA), 2021.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2:
-
-- title: "Efficient Self-Supervised Data Collection for Offline Robot Learning"
+  news2: null
+- title: Efficient Self-Supervised Data Collection for Offline Robot Learning
   image: ssdc.png
-  description: "Combine curiosity with goal-based RL for efficient exploration in robotic manipulation"
+  description: Combine curiosity with goal-based RL for efficient exploration in robotic
+    manipulation
   authors: S. Endrawis, G. Leibovich, G. Jacob, G. Novik, and A. Tamar.
   link:
     url: https://sites.google.com/view/efficientself-superviseddataco
-    display:  "International Conference on Robotics and Automation (ICRA), 2021."
+    display: International Conference on Robotics and Automation (ICRA), 2021.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2:
-
-- title: "Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder"
+  news2: null
+- title: 'Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder'
   image: sintrovae.png
-  description: "A new generative model that combines the strengths of both VAEs and GANs"
+  description: A new generative model that combines the strengths of both VAEs and
+    GANs
   authors: T. Daniel and A. Tamar.
   link:
     url: https://arxiv.org/abs/2012.13253
-    display:  "Computer Vision and Pattern Recognition (CVPR), 2021"
+    display: Computer Vision and Pattern Recognition (CVPR), 2021
   highlight: 0
   news1: Oral
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Online Safety Assurance for Learning-Augmented Systems"
-  image: 
-  description: 
-  authors: N. H. Rotman, M. Schapira, and A. Tamar. 
+  news2: null
+- title: Online Safety Assurance for Learning-Augmented Systems
+  image: null
+  description: null
+  authors: N. H. Rotman, M. Schapira, and A. Tamar.
   link:
     url: https://arxiv.org/abs/2010.03625
-    display:  "ACM Workshop on Hot Topics in Networks (HotNets), 2020"
+    display: ACM Workshop on Hot Topics in Networks (HotNets), 2020
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Offline Meta Learning of Exploration"
+  news2: null
+- title: Offline Meta Learning of Exploration
   image: OMRL.jpg
-  description: "We formulate a Bayesian view of offline meta RL, and learn how to effectively explore in a new task."
+  description: We formulate a Bayesian view of offline meta RL, and learn how to effectively
+    explore in a new task.
   authors: R. Dorfman, I. Shenfeld, and A. Tamar.
   link:
     url: https://arxiv.org/abs/2008.02598
-    display:  "Advances in Neural Information Processing Systems (NeurIPS), 2021."
+    display: Advances in Neural Information Processing Systems (NeurIPS), 2021.
   highlight: 1
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Efficient MDP analysis for selfish-mining in blockchains"
-  image: 
-  description: 
+  news2: null
+- title: Efficient MDP analysis for selfish-mining in blockchains
+  image: null
+  description: null
   authors: R. Bar Zur, I. Eyal, and A. Tamar.
   link:
     url: https://arxiv.org/abs/2007.05614
-    display:  "ACM Advances in Financial Technologies (AFT), 2020"
+    display: ACM Advances in Financial Technologies (AFT), 2020
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Hallucinative Topological Memory for Zero-Shot Visual Planning"
-  image: 
-  description: 
+  news2: null
+- title: Hallucinative Topological Memory for Zero-Shot Visual Planning
+  image: null
+  description: null
   authors: K. Liu, T. Kurutach, C. Tung, P. Abbeel, and A. Tamar.
   link:
     url: https://arxiv.org/abs/2002.12336
-    display:  "International Conference on Machine Learning (ICML), 2020"
+    display: International Conference on Machine Learning (ICML), 2020
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Deep Variational Semi-Supervised Novelty Detection"
-  image: 
-  description: 
+  news2: null
+- title: Deep Variational Semi-Supervised Novelty Detection
+  image: null
+  description: null
   authors: T. Daniel, T. Kurutach, and A. Tamar.
   link:
     url: https://arxiv.org/abs/1911.04971
-    display:  "arXiv:1911.04971"
+    display: arXiv:1911.04971
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 0
   workshop: 0
   preprint: 1
-  news2: 
-
-- title: "Sub-Goal Trees -- a Framework for Goal-Based Reinforcement Learning"
+  news2: null
+- title: Sub-Goal Trees -- a Framework for Goal-Based Reinforcement Learning
   image: ts_values_all.png
   description: We derive a new RL framework based on the all-pairs shortest path problem.
   authors: T. Jurgenson, O. Avner, E. Groshev, and A. Tamar.
   link:
     url: https://arxiv.org/abs/2002.12361
-    display:  "International Conference on Machine Learning (ICML), 2020"
+    display: International Conference on Machine Learning (ICML), 2020
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Deep Residual Flow for Out of Distribution Detection"
-  image: 
-  description: 
+  news2: null
+- title: Deep Residual Flow for Out of Distribution Detection
+  image: null
+  description: null
   authors: E. Zisselman, and A. Tamar.
   link:
     url: https://arxiv.org/abs/2001.05419
-    display:  "Computer Vision and Pattern Recognition (CVPR), 2020"
+    display: Computer Vision and Pattern Recognition (CVPR), 2020
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Harnessing reinforcement learning for neural motion planning"
+  news2: null
+- title: Harnessing reinforcement learning for neural motion planning
   image: scenario_hard.png
-  description: We train a neural network to perform motion planning computations, using a new RL algorithm that is tailored for motion planning domains.
+  description: We train a neural network to perform motion planning computations,
+    using a new RL algorithm that is tailored for motion planning domains.
   authors: T. Jurgenson and A. Tamar.
   link:
-    url: 
-    display:  "Robotics: Science and Systems (RSS), 2019"
+    url: null
+    display: 'Robotics: Science and Systems (RSS), 2019'
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Learning robotic manipulation through visual planning and acting"
+  news2: null
+- title: Learning robotic manipulation through visual planning and acting
   image: new_teaser_1.png
-  description: A data-driven method for robotic manipulation that first imagines an image sequence of the manipulation, and then executes the imagined plan.
+  description: A data-driven method for robotic manipulation that first imagines an
+    image sequence of the manipulation, and then executes the imagined plan.
   authors: A. Wang, T. Kurutach, K. Liu, P. Abbeel, and A. Tamar.
   link:
     url: https://arxiv.org/abs/1905.04411
-    display:  "Robotics: Science and Systems (RSS), 2019"
+    display: 'Robotics: Science and Systems (RSS), 2019'
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Robust 2d assembly sequencing via geometric planning with learned costs"
-  image: 
-  description: 
-  authors: T. Geft, A. Tamar, K. Goldberg, and D. Halperin. 
+  news2: null
+- title: Robust 2d assembly sequencing via geometric planning with learned costs
+  image: null
+  description: null
+  authors: T. Geft, A. Tamar, K. Goldberg, and D. Halperin.
   link:
-    url: 
-    display:  IEEE International Conference on Automation Science and Engineering (CASE), 2019
+    url: null
+    display: IEEE International Conference on Automation Science and Engineering (CASE),
+      2019
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "A Risk-Sensitive Finite-Time Reachability Approach for Safety of Stochastic Dynamic Systems"
-  image: 
-  description: 
-  authors: M. Chapman, J. Lacotte, A. Tamar, D. Lee, K. Smith, V. Cheng, J. Fisac, S. Jha, M. Pavone, and C. Tomlin.  
+  news2: null
+- title: A Risk-Sensitive Finite-Time Reachability Approach for Safety of Stochastic
+    Dynamic Systems
+  image: null
+  description: null
+  authors: M. Chapman, J. Lacotte, A. Tamar, D. Lee, K. Smith, V. Cheng, J. Fisac,
+    S. Jha, M. Pavone, and C. Tomlin.
   link:
     url: https://arxiv.org/abs/1902.11277
-    display:  American Control Conference, 2019
+    display: American Control Conference, 2019
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Multi agent reinforcement learning with multi-step generative models"
-  image: 
-  description: 
-  authors: O. Krupnik, I. Mordatch, and A. Tamar. 
+  news2: null
+- title: Multi agent reinforcement learning with multi-step generative models
+  image: null
+  description: null
+  authors: O. Krupnik, I. Mordatch, and A. Tamar.
   link:
     url: https://arxiv.org/abs/1901.10251
-    display:  Conference on Robot Learning (CoRL), 2019.
+    display: Conference on Robot Learning (CoRL), 2019.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Internet congestion control via deep reinforcement learning"
-  image: 
-  description: 
-  authors: N. Jay, N. H. Rotman, P. Godfrey, M. Schapira, and A. Tamar.  
+  news2: null
+- title: Internet congestion control via deep reinforcement learning
+  image: null
+  description: null
+  authors: N. Jay, N. H. Rotman, P. Godfrey, M. Schapira, and A. Tamar.
   link:
     url: https://arxiv.org/abs/1810.03259
-    display:  International Conference on Machine Learning (ICML), 2019.
+    display: International Conference on Machine Learning (ICML), 2019.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Learning and planning with a semantic model"
-  image: 
-  description: 
-  authors: Y. Wu, Y. Wu, A. Tamar, S. Russell, G. Gkioxari, and Y. Tian.  
+  news2: null
+- title: Learning and planning with a semantic model
+  image: null
+  description: null
+  authors: Y. Wu, Y. Wu, A. Tamar, S. Russell, G. Gkioxari, and Y. Tian.
   link:
     url: https://arxiv.org/abs/1809.10842
-    display:  International Conference on Computer Vision (ICCV), 2019.
+    display: International Conference on Computer Vision (ICCV), 2019.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Distributional multivariate policy evaluation and exploration with the Bellman GAN"
-  image: 
-  description: 
-  authors: D. Freirich, T. Shimkin, R. Meir, and A. Tamar.  
+  news2: null
+- title: Distributional multivariate policy evaluation and exploration with the Bellman
+    GAN
+  image: null
+  description: null
+  authors: D. Freirich, T. Shimkin, R. Meir, and A. Tamar.
   link:
     url: https://arxiv.org/abs/1808.01960
-    display:  International Conference on Machine Learning (ICML), 2019.
+    display: International Conference on Machine Learning (ICML), 2019.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Constrained Policy Improvement for Efficient Reinforcement Learning"
-  image: 
-  description: 
-  authors: E. Sarafian, A. Tamar, and S. Kraus. 
+  news2: null
+- title: Constrained Policy Improvement for Efficient Reinforcement Learning
+  image: null
+  description: null
+  authors: E. Sarafian, A. Tamar, and S. Kraus.
   link:
     url: https://arxiv.org/abs/1805.07805
-    display:  IJCAI-PRICAI 2020
+    display: IJCAI-PRICAI 2020
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Domain randomization for active pose estimation"
-  image: 
-  description: 
-  authors: X. Ren, J. Luo, E. Solowjow, J. Aparicio-Ojea, A. Gupta, A. Tamar, and P. Abbeel. 
+  news2: null
+- title: Domain randomization for active pose estimation
+  image: null
+  description: null
+  authors: X. Ren, J. Luo, E. Solowjow, J. Aparicio-Ojea, A. Gupta, A. Tamar, and
+    P. Abbeel.
   link:
     url: https://arxiv.org/abs/1903.03953
-    display:  IEEE International Conference on Robotics and Automation (ICRA), 2019.
+    display: IEEE International Conference on Robotics and Automation (ICRA), 2019.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Reinforcement learning on variable impedance controller for high-precision robotic assembly"
-  image: 
-  description: 
-  authors: J. Luo, E. Solowjow, C. Wen, J. Aparicio-Ojea, A. M. Agogino, A. Tamar, and P. Abbeel. 
+  news2: null
+- title: Reinforcement learning on variable impedance controller for high-precision
+    robotic assembly
+  image: null
+  description: null
+  authors: J. Luo, E. Solowjow, C. Wen, J. Aparicio-Ojea, A. M. Agogino, A. Tamar,
+    and P. Abbeel.
   link:
     url: https://arxiv.org/abs/1903.01066
-    display:  IEEE International Conference on Robotics and Automation (ICRA), 2019.
+    display: IEEE International Conference on Robotics and Automation (ICRA), 2019.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Safer Classification by Synthesis"
-  image: 
-  description: 
+  news2: null
+- title: Safer Classification by Synthesis
+  image: null
+  description: null
   authors: W. Wang, A. Wang, A. Tamar, X. Chen, and P. Abbeel.
   link:
     url: http://arxiv.org/abs/1711.08534
-    display:  arXiv:1711.08534
+    display: arXiv:1711.08534
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 0
   workshop: 0
   preprint: 1
-  news2: 
-
-- title: "Learning plannable representations with Causal InfoGAN"
+  news2: null
+- title: Learning plannable representations with Causal InfoGAN
   image: rope_causal_infogan_1.png
-  description: We propose a generative model that can imagine *goal-directed* image sequences, and use it to plan in image space.
+  description: We propose a generative model that can imagine *goal-directed* image
+    sequences, and use it to plan in image space.
   authors: T. Kurutach*, A. Tamar*, G. Yang, S. Russell, and P. Abbeel.
   link:
     url: http://papers.nips.cc/paper/8090-learning-plannable-representations-with-causal-infogan
-    display:  Advances in Neural Information Processing Systems (NeurIPS), 2018.
+    display: Advances in Neural Information Processing Systems (NeurIPS), 2018.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Learning generalized reactive policies using deep neural networks"
-  image: 
-  description: 
+  news2: null
+- title: Learning generalized reactive policies using deep neural networks
+  image: null
+  description: null
   authors: E. Groshev, M. Goldstein, A. Tamar, S. Srivastava, and P. Abbeel.
   link:
     url: https://www.aaai.org/ocs/index.php/ICAPS/ICAPS18/paper/viewPaper/17782
-    display:  International Conference on Automated Planning and Scheduling (ICAPS), 2018.
+    display: International Conference on Automated Planning and Scheduling (ICAPS),
+      2018.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Learning robotic assembly from CAD"
+  news2: null
+- title: Learning robotic assembly from CAD
   image: Gear_experiment.jpg
   description: We combine motion planning and RL to assemble tight-fitting objects.
   authors: G. Thomas, M. Chien, A. Tamar, J. Aparicio-Ojea, and P. Abbeel.
   link:
     url: https://ieeexplore.ieee.org/abstract/document/8460696
-    display:  IEEE International Conference on Robotics and Automation (ICRA), 2018.
+    display: IEEE International Conference on Robotics and Automation (ICRA), 2018.
   highlight: 0
   news1: Automation award track
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Imitation learning from visual data with multiple intentions"
-  image: 
-  description: 
-  authors: A. Tamar, K. Rohanimanesh, Y. Chow, C. Vigorito, B. Goodrich, M. Kahane, and D. Pridmore.
+  news2: null
+- title: Imitation learning from visual data with multiple intentions
+  image: null
+  description: null
+  authors: A. Tamar, K. Rohanimanesh, Y. Chow, C. Vigorito, B. Goodrich, M. Kahane,
+    and D. Pridmore.
   link:
     url: https://openreview.net/forum?id=Hk3ddfWRW
-    display:  International Conference on Learning Representations (ICLR), 2018.
+    display: International Conference on Learning Representations (ICLR), 2018.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Model-ensemble trust-region policy optimization"
-  image: 
-  description: 
+  news2: null
+- title: Model-ensemble trust-region policy optimization
+  image: null
+  description: null
   authors: T. Kurutach, I. Clavera, Y. Duan, A. Tamar, and P. Abbeel.
   link:
     url: https://arxiv.org/abs/1802.10592
-    display:  International Conference on Learning Representations (ICLR), 2018.
+    display: International Conference on Learning Representations (ICLR), 2018.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "A machine learning approach to routing"
-  image: 
-  description: 
+  news2: null
+- title: A machine learning approach to routing
+  image: null
+  description: null
   authors: A. Valadarsky, M. Schapira, D. Shahaf, and A. Tamar.
   link:
     url: https://arxiv.org/abs/1708.03074
-    display:  ACM Workshop on Hot Topics in Networks (HotNets), 2017.
+    display: ACM Workshop on Hot Topics in Networks (HotNets), 2017.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Multi-agent actor-critic for mixed cooperative-competitive environments"
-  image: 
-  description: 
+  news2: null
+- title: Multi-agent actor-critic for mixed cooperative-competitive environments
+  image: null
+  description: null
   authors: R. Lowe, Y. Wu, A. Tamar, J. Harb, P. Abbeel, and I. Mordatch.
   link:
     url: https://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mixed-cooperative-competitive-environments.pdf
-    display:  Advances in Neural Information Processing Systems (NeurIPS), pages 6382--6393, 2017.
+    display: Advances in Neural Information Processing Systems (NeurIPS), pages 6382--6393,
+      2017.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Shallow updates for deep reinforcement learning"
-  image: 
-  description: 
+  news2: null
+- title: Shallow updates for deep reinforcement learning
+  image: null
+  description: null
   authors: N. Levine, T. Zahavy, D. J. Mankowitz, A. Tamar, and S. Mannor.
   link:
     url: https://papers.nips.cc/paper/6906-shallow-updates-for-deep-reinforcement-learning.pdf
-    display:  Advances in Neural Information Processing Systems (NeurIPS), pages 3138--3148, 2017.
+    display: Advances in Neural Information Processing Systems (NeurIPS), pages 3138--3148,
+      2017.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Learning from the hindsight plan -- episodic MPC improvement"
-  image: 
-  description: 
+  news2: null
+- title: Learning from the hindsight plan -- episodic MPC improvement
+  image: null
+  description: null
   authors: A. Tamar, G. Thomas, T. Zhang, S. Levine, and P. Abbeel.
   link:
     url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7989043
-    display:  IEEE International Conference on Robotics and Automation (ICRA), pages 336--343, 2017.
+    display: IEEE International Conference on Robotics and Automation (ICRA), pages
+      336--343, 2017.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-
-- title: "Constrained policy optimization"
-  image: 
-  description: 
-  authors: J. Achiam, D. Held, A. Tamar, and P. Abbeel.  
+  news2: null
+- title: Constrained policy optimization
+  image: null
+  description: null
+  authors: J. Achiam, D. Held, A. Tamar, and P. Abbeel.
   link:
     url: http://proceedings.mlr.press/v70/achiam17a.html
-    display:  International Conference on Machine Learning (ICML), pages 22--31, 2017.
+    display: International Conference on Machine Learning (ICML), pages 22--31, 2017.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Sequential decision making with coherent risk"
-  image: 
-  description: 
+  news2: null
+- title: Sequential decision making with coherent risk
+  image: null
+  description: null
   authors: A. Tamar, Y. Chow, M. Ghavamzadeh, and S. Mannor.
   link:
     url: https://ieeexplore.ieee.org/document/7797146
-    display:  IEEE Transactions on Automatic Control, 62(7):3323--3338, 2017.
+    display: IEEE Transactions on Automatic Control, 62(7):3323--3338, 2017.
   highlight: 0
-  news1: 
+  news1: null
   journal: 1
   conference: 0
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Value iteration networks"
+  news2: null
+- title: Value iteration networks
   image: grid1.png
-  description: We identify a connection between the value iteration algorithm and CNNs, and use it to develop neural networks with a built in planning module.
+  description: We identify a connection between the value iteration algorithm and
+    CNNs, and use it to develop neural networks with a built in planning module.
   authors: A. Tamar, Y. Wu, G. Thomas, S. Levine, and P. Abbeel.
   link:
     url: http://papers.nips.cc/paper/6046-value-iteration-networks
-    display:  Advances in Neural Information Processing Systems (NeurIPS), pages 2154--2162, 2016.
+    display: Advances in Neural Information Processing Systems (NeurIPS), pages 2154--2162,
+      2016.
   highlight: 1
   news1: Best paper award
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2:  
-
-- title: "Generalized emphatic temporal difference learning: Bias-variance analysis"
-  image: 
-  description: 
+  news2: null
+- title: 'Generalized emphatic temporal difference learning: Bias-variance analysis'
+  image: null
+  description: null
   authors: A. Hallak, A. Tamar, R. Munos, and S. Mannor.
   link:
     url: https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPaper/11983
-    display:  AAAI, pages 1631--1637, 2016.
+    display: AAAI, pages 1631--1637, 2016.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Situational awareness by risk-conscious skills"
-  image: 
-  description: 
+  news2: null
+- title: Situational awareness by risk-conscious skills
+  image: null
+  description: null
   authors: D. J. Mankowitz, A. Tamar, and S. Mannor.
   link:
     url: https://arxiv.org/abs/1610.02847
-    display:  arXiv preprint arXiv:1610.02847, 2016.
+    display: arXiv preprint arXiv:1610.02847, 2016.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 0
   workshop: 1
   preprint: 0
-  news2: 
-
-- title: "Learning the variance of the reward-to-go"
-  image: 
-  description: 
+  news2: null
+- title: Learning the variance of the reward-to-go
+  image: null
+  description: null
   authors: A. Tamar, D. Di Castro, and S. Mannor.
   link:
     url: http://jmlr.org/papers/v17/14-335.html
-    display:  Journal of Machine Learning Research, 17(13):1--36, 2016.
+    display: Journal of Machine Learning Research, 17(13):1--36, 2016.
   highlight: 0
-  news1: 
+  news1: null
   journal: 1
   conference: 0
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Risk-sensitive and robust decision-making: a CVaR optimization approach"
-  image: 
-  description: 
-  authors: Y. Chow, A. Tamar, S. Mannor, and M. Pavone.  
+  news2: null
+- title: 'Risk-sensitive and robust decision-making: a CVaR optimization approach'
+  image: null
+  description: null
+  authors: Y. Chow, A. Tamar, S. Mannor, and M. Pavone.
   link:
     url: http://papers.nips.cc/paper/6014-risk-sensitive-and-robust-decision-making-a-cvar-optimization-approach
-    display:  Advances in Neural Information Processing Systems (NeurIPS), pages 1522--1530, 2015. See https://arxiv.org/pdf/2304.12477.pdf for a discussion of an error in the optimality claim.
+    display: Advances in Neural Information Processing Systems (NeurIPS), pages 1522--1530,
+      2015. See https://arxiv.org/pdf/2304.12477.pdf for a discussion of an error
+      in the optimality claim.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Policy gradient for coherent risk measures"
-  image: 
-  description: 
+  news2: null
+- title: Policy gradient for coherent risk measures
+  image: null
+  description: null
   authors: A. Tamar, Y. Chow, M. Ghavamzadeh, and S. Mannor.
   link:
     url: http://papers.nips.cc/paper/5923-policy-gradient-for-coherent-risk-measures
-    display:  Advances in Neural Information Processing Systems (NeurIPS), pages 1468--1476, 2015.
+    display: Advances in Neural Information Processing Systems (NeurIPS), pages 1468--1476,
+      2015.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Optimizing the CVaR via sampling"
+  news2: null
+- title: Optimizing the CVaR via sampling
   image: weights1.png
-  description: We propose a policy gradient algorithm for the CVaR risk measure, and use it to learn a risk-averse Tetris playing agent.
+  description: We propose a policy gradient algorithm for the CVaR risk measure, and
+    use it to learn a risk-averse Tetris playing agent.
   authors: A. Tamar, Y. Glassner, and S. Mannor.
   link:
     url: https://arxiv.org/abs/1404.3862
-    display:  AAAI, pages 2993--2999, 2015.
+    display: AAAI, pages 2993--2999, 2015.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Bayesian reinforcement learning: A survey"
-  image: 
-  description: 
+  news2: null
+- title: 'Bayesian reinforcement learning: A survey'
+  image: null
+  description: null
   authors: M. Ghavamzadeh, S. Mannor, J. Pineau, and A. Tamar.
   link:
     url: https://arxiv.org/abs/1609.04436
-    display:  Foundations and Trends in Machine Learning, 8(5-6):359--483, 2015.
+    display: Foundations and Trends in Machine Learning, 8(5-6):359--483, 2015.
   highlight: 0
-  news1: 
+  news1: null
   journal: 1
   conference: 0
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Scaling up robust MDPs using function approximation"
-  image: 
-  description: 
+  news2: null
+- title: Scaling up robust MDPs using function approximation
+  image: null
+  description: null
   authors: A. Tamar, S. Mannor, and H. Xu.
   link:
     url: http://proceedings.mlr.press/v32/tamar14.pdf
-    display:  International Conference on Machine Learning (ICML), pages 181--189, 2014.
+    display: International Conference on Machine Learning (ICML), pages 181--189,
+      2014.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Implicit temporal differences"
-  image: 
-  description: 
-  authors: A. Tamar, P. Toulis, S. Mannor, and E. M. Airoldi.  
+  news2: null
+- title: Implicit temporal differences
+  image: null
+  description: null
+  authors: A. Tamar, P. Toulis, S. Mannor, and E. M. Airoldi.
   link:
     url: https://arxiv.org/abs/1412.6734
-    display:  NeurIPS workshop on large-scale reinforcement learning and Markov decision problems, 2014.
+    display: NeurIPS workshop on large-scale reinforcement learning and Markov decision
+      problems, 2014.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 0
   workshop: 1
   preprint: 0
-  news2: 
-
-- title: "Temporal difference methods for the variance of the reward to go"
-  image: 
-  description: 
+  news2: null
+- title: Temporal difference methods for the variance of the reward to go
+  image: null
+  description: null
   authors: A. Tamar, D. Di Castro, and S. Mannor.
   link:
     url: http://proceedings.mlr.press/v28/tamar13.html
-    display:  International Conference on Machine Learning (ICML), pages 495--503, 2013.
+    display: International Conference on Machine Learning (ICML), pages 495--503,
+      2013.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Variance adjusted actor critic algorithms"
-  image: 
-  description: 
+  news2: null
+- title: Variance adjusted actor critic algorithms
+  image: null
+  description: null
   authors: A. Tamar and S. Mannor.
   link:
     url: https://arxiv.org/abs/1310.3697
-    display:  arXiv preprint arXiv:1310.3697, 2013.
+    display: arXiv preprint arXiv:1310.3697, 2013.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 0
   workshop: 1
   preprint: 0
-  news2: 
-
-- title: "Integrating a partial model into model free reinforcement learning"
-  image: 
-  description: 
+  news2: null
+- title: Integrating a partial model into model free reinforcement learning
+  image: null
+  description: null
   authors: A. Tamar, D. Di Castro, and R. Meir.
   link:
     url: http://www.jmlr.org/papers/volume13/tamar12a/tamar12a.pdf
-    display:  Journal of Machine Learning Research, 13:1927--1966, 2012.
+    display: Journal of Machine Learning Research, 13:1927--1966, 2012.
   highlight: 0
-  news1: 
+  news1: null
   journal: 1
   conference: 0
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Policy gradients with variance related risk criteria"
-  image: 
-  description: 
+  news2: null
+- title: Policy gradients with variance related risk criteria
+  image: null
+  description: null
   authors: A. Tamar, D. Di Castro, and S. Mannor.
   link:
     url: https://icml.cc/2012/papers/489.pdf
-    display:  International Conference on Machine Learning (ICML), pages 387--396, 2012.
+    display: International Conference on Machine Learning (ICML), pages 387--396,
+      2012.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
-
-- title: "Integrating partial model knowledge in model free RL algorithms"
-  image: 
-  description: 
+  news2: null
+- title: Integrating partial model knowledge in model free RL algorithms
+  image: null
+  description: null
   authors: A. Tamar, D. D. Castro, and R. Meir.
   link:
     url: http://www.icml-2011.org/papers/222_icmlpaper.pdf
-    display:  International Conference on Machine Learning (ICML), pages 305--312, 2011.
+    display: International Conference on Machine Learning (ICML), pages 305--312,
+      2011.
   highlight: 0
-  news1: 
+  news1: null
   journal: 0
   conference: 1
   workshop: 0
   preprint: 0
-  news2: 
+  news2: null
