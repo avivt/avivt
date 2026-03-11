@@ -4,6 +4,21 @@
   authors: R. Bar-Zur, A. Tamar, and I. Eyal
   link:
     url: https://arxiv.org/abs/2511.21552
+    display: "IEEE S&P, 2026"
+  highlight: 0
+  news1:
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2:
+
+- title: "MAD-DAG: Protecting Blockchain Consensus from MEV"
+  image:
+  description:
+  authors: R. Bar-Zur, A. Tamar, and I. Eyal
+  link:
+    url: https://arxiv.org/abs/2511.21552
     display: "arXiv preprint arXiv:2511.21552, 2025"
   highlight: 0
   news1:
