@@ -1,3 +1,34 @@
+- title: "More with LESS: Local Scene Representations for Tactile Imaging"
+  image: handheld.png
+  description: Reconstruct 3D structure of soft objects from artificial touch
+  authors: Z. Rimon, E. Shafer, T. Tepper, D. Kozin, A. Malka, R. Holland, and A. Tamar
+  link:
+    url: https://zoharri.github.io/LESS/
+    display: "RSS, 2026"
+  highlight: 1
+  news1:
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2:
+
+- title: "Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models"
+  image:
+  description:
+  authors: S. Francis-Meretzki, M. Mutti, Y. Romano, and A. Tamar
+  link:
+    url: https://shellytechnion.github.io/TDQC.github.io/
+    display: "ICML, 2026"
+  highlight: 0
+  news1:
+  journal: 0
+  conference: 1
+  workshop: 0
+  preprint: 0
+  news2:
+
+
 - title: "MAD-DAG: Protecting Blockchain Consensus from MEV"
   image:
   description:
